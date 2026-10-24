@@ -158,8 +158,3 @@ SuperMeatboyRewrite/
 └── tsconfig.json
 ```
 
----
-
-##  Legal & Disclaimer
-
-This project is an educational, non-commercial rewrite and reverse-engineering preservation project. **Super Meat Boy** is a registered trademark of Team Meat. All original game assets, art, sounds, and level designs remain the intellectual property of Team Meat.
