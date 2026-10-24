@@ -1,0 +1,174 @@
+chapter
+{
+	name = "Super Meat World";
+	music = "internets.wav";
+	altmusic = "smbforestalt.wav";
+	warpmusic = "forestretro3.wav";
+	menunormalmusic = "internetsmenu.wav";
+	menuretromusic = "internetsmenu.wav";
+	warptrans = "warp.am";
+	intro = "meatworld.am";
+	bossintro = "bossintro1.am";
+	bossoutro = "bossoutro.am";
+	bossmusic = "bawsslewp.wav";
+}
+
+normlevel
+{
+	file = "1-1";
+	name = "Hello World";
+	par = 3.0;
+	id = 0;
+}
+
+normlevel
+{
+	file = "1-2";
+	name = "Upward";
+	par = 5.0;
+	id = 1;
+}
+
+normlevel
+{
+	file = "1-3";
+	name = "The Climb";
+	par = 9.0;
+	id = 2;
+}
+
+normlevel
+{
+	file = "1-4";
+	name = "Nutshell";
+	par = 9.0;
+	id = 3;
+}
+
+normlevel
+{
+	file = "1-5";
+	name = "Holy Mountain";
+	par = 11.0;
+	id = 4;
+}
+
+normlevel
+{
+	file = "1-6";
+	name = "Bladecatcher";
+	par = 7.0;
+	id = 5;
+}
+
+normlevel
+{
+	file = "1-7";
+	name = "Diverge";
+	par = 5;
+	id = 6;
+}
+
+normlevel
+{
+	file = "1-8";
+	name = "The Bit";
+	par = 4.5;
+	id = 7;
+}
+
+normlevel
+{
+	file = "1-9";
+	name = "Safety Third";
+	par = 8.0;
+	id = 8;
+}
+
+normlevel
+{
+	file = "1-10";
+	name = "The Levee";
+	par = 7.5;
+	id = 9;
+}
+
+normlevel
+{
+	file = "1-11";
+	name = "Fired";
+	par = 8.0;
+	id = 10;
+}
+
+normlevel
+{
+	file = "1-12";
+	name = "Revolve";
+	par = 7.0;
+	id = 11;
+}
+
+normlevel
+{
+	file = "1-13";
+	name = "Toms Cabin";
+	par = 7.0;
+	id = 12;
+}
+
+normlevel
+{
+	file = "1-14";
+	name = "Blood Mountain";
+	par = 8.0;
+	id = 13;
+}
+
+normlevel
+{
+	file = "1-15";
+	name = "Cactus Jumper";
+	par = 10.0;
+	id = 14;
+}
+
+normlevel
+{
+	file = "1-16";
+	name = "Sidewinder";
+	par = 9.0;
+	id = 15;
+}
+
+normlevel
+{
+	file = "1-17";
+	name = "MorningStar";
+	par = 9.0;
+	id = 16;
+}
+
+normlevel
+{
+	file = "1-18";
+	name = "Altamont";
+	par = 4.0;
+	id = 17;
+}
+
+normlevel
+{
+	file = "1-19";
+	name = "Intermission";
+	par = 20.0;
+	id = 18;
+}
+
+normlevel
+{
+	file = "1-20";
+	name = "The Test";
+	par = 22.0;
+	id = 19;
+}

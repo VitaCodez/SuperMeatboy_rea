@@ -1,0 +1,180 @@
+chapter
+{
+	name = "Jumper Returns";
+	music = "retrohell_music.wav";
+	altmusic = "retrohell_music.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+	overridechar = 25;
+	lives = 30;
+	time = 100.5;
+}
+
+normlevel
+{
+	file = "ogmo1-1";
+	name = "The Way It Is";
+	par = 5.5;
+	id = 450;
+}
+
+normlevel
+{
+	file = "ogmo1-2";
+	name = "Reflexive";
+	par = 7.5;
+	id = 451;
+}
+
+normlevel
+{
+	file = "ogmo1-3";
+	name = "Sling & Arrow";
+	par =9.0;
+	id = 452;
+}
+
+normlevel
+{
+	file = "ogmo1-4";
+	name = "Duality";
+	par = 21.0;
+	id = 453;
+}
+
+normlevel
+{
+	file = "ogmo1-5";
+	name = "slow ride";
+	par = 10.0;
+	id = 454;
+}
+
+normlevel
+{
+	file = "ogmo1-6";
+	name = "caged beast";
+	par = 12.5;
+	id = 455;
+}
+
+normlevel
+{
+	file = "ogmo1-7";
+	name = "like a record";
+	par = 16.0;
+	id = 456;
+}
+
+normlevel
+{
+	file = "ogmo1-8";
+	name = "Sofia Garden";
+	par = 8.0;
+	id = 457;
+}
+
+normlevel
+{
+	file = "ogmo1-9";
+	name = "Gators of NY";
+	par = 10.5;
+	id = 458;
+}
+
+normlevel
+{
+	file = "ogmo1-10";
+	name = "broken home";
+	par = 9;
+	id = 459;
+}
+
+normlevel1-11
+{
+	file = "ogmo1-11";
+	name = "Poor Yorick";
+	par =12.0;
+	id = 460;
+}
+
+normlevel
+{
+	file = "ogmo1-12";
+	name = "Tollway";
+	par = 12.0;
+	id = 461;
+}
+
+normlevel
+{
+	file = "ogmo1-13";
+	name = "Street Sweeper";
+	par = 6.5;
+	id = 462;
+}
+
+normlevel
+{
+	file = "ogmo1-14";
+	name = "the drain";
+	par = 13;
+	id = 463;
+}
+
+normlevel
+{
+	file = "ogmo1-15";
+	name = "pocket rocket";
+	par = 14.0;
+	id = 464;
+}
+
+normlevel
+{
+	file = "ogmo1-16";
+	name = "sawbucks";
+	par = 16.5;
+	id = 465;
+}
+
+
+normlevel
+{
+	file = "ogmo1-17";
+	name = "fanavalt";
+	par = 11.0;
+	id = 466;
+}
+
+normlevel
+{
+	file = "ogmo1-18";
+	name = "Kill your TV";
+	par = 13.0;
+	id = 467;
+}
+
+normlevel
+{
+	file = "ogmo1-19";
+	name = "Juke Box";
+	par = 20.0;
+	id = 468;
+}
+
+normlevel
+{
+	file = "ogmo1-20";
+	name = "Teeth";
+	par = 6.5;
+	id = 469;
+} 
+
+

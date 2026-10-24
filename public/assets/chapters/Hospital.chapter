@@ -1,0 +1,492 @@
+chapter
+{
+	name = "Hospital";
+	music = "ch2track.wav";
+	altmusic = "ch2trackalt.wav";
+	warpmusic = "ch2retro.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "hevilmenuloop.wav";
+	warptrans = "warp.am";
+	intro = "ch2intro.am";
+	bossintro = "boss2intro.am";
+	bossoutro = "boss2outro.am";
+	bossmusic = "boss2.wav";
+}
+
+normlevel
+{
+	file = "2-1";
+	name = "Biohazard";
+	par = 11.0;
+	id = 52;
+}
+
+normlevel
+{
+	file = "2-2";
+	name = "One Down";
+	par = 10.5;
+	id = 53;
+}
+
+normlevel
+{
+	file = "2-3";
+	name = "Memories";
+	par = 14.0;
+	id = 54;
+}
+
+normlevel
+{
+	file = "2-4";
+	name = "Blew";
+	par = 9.5;
+	id = 55;
+}
+
+normlevel
+{
+	file = "2-5";
+	name = "Big Empty";
+	par = 16.0;
+	id = 56;
+}
+
+normlevel
+{
+	file = "2-6";
+	name = "The Grain";
+	par = 15.0;
+	id = 57;
+}
+
+normlevel
+{
+	file = "2-7";
+	name = "Hush";
+	par = 19.0;
+	id = 58;
+}
+
+normlevel
+{
+	file = "2-8";
+	name = "The Sabbath";
+	par = 25.0;
+	warpid = 2;
+	id = 59;
+}
+
+normlevel
+{
+	file = "2-9";
+	name = "Blood Swamp";
+	par = 11.0;
+	id = 60;
+}
+
+normlevel
+{
+	file = "2-10";
+	name = "johnny's cage";
+	par = 12.0;
+	id = 61;
+}
+
+normlevel
+{
+	file = "2-11";
+	name = "Ghost Key";
+	par =9.0;
+	id = 62;
+}
+
+normlevel
+{
+	file = "2-12";
+	name = "Above";
+	par = 11.0;
+	warpid = 3;
+	id = 63;
+}
+
+normlevel
+{
+	file = "2-13";
+	name = "Ulcer pop";
+	par = 10.0;
+	id = 64;
+}
+
+normlevel
+{
+	file = "2-14";
+	name = "Aunt Flo";
+	par = 16.0;
+	id = 65;
+}
+
+normlevel
+{
+	file = "2-15";
+	name = "Gallbladder";
+	par = 19.0;
+	warpid = 1;
+	id = 66;
+}
+
+normlevel
+{
+	file = "2-16";
+	name = "Synj";
+	par = 15.0;
+	id = 67;
+}
+
+normlevel
+{
+	file = "2-17";
+	name = "Worm food";
+	par = 14.0;
+	id = 68;
+}
+
+normlevel
+{
+	file = "2-18";
+	name = "destructoid";
+	par = 16.5;
+	id = 69;
+}
+
+normlevel
+{
+	file = "2-19";
+	name = "six feet";
+	par = 14.0;
+	id = 70;
+}
+
+normlevel
+{
+	file = "2-20";
+	name = "Day Breaker";
+	par = 24.0;
+	id = 71;
+}
+
+bosslevel
+{
+	file = "boss2";
+	name = "C.H.A.D.";
+	par = 40.0;
+}
+
+altlevel
+{
+	file = "2-1x";
+	name = "back track";
+	par = 17.0;
+	id = 72;
+}
+
+altlevel
+{
+	file = "2-2x";
+	name = "pinkeye falls";
+	par = 14.0;
+	id = 73;
+}
+
+altlevel
+{
+	file = "2-3x";
+	name = "Buzzzzcut";
+	par = 13.0;
+	id = 74;
+}
+
+altlevel
+{
+	file = "2-4x";
+	name = "Blown";
+	par = 14.0;
+	id = 75;
+}
+
+altlevel
+{
+	file = "2-5x";
+	name = "Agent Orange";
+	par = 20.0;
+	warpid = 4;
+	id = 76;
+}
+
+altlevel
+{
+	file = "2-6x";
+	name = "Cher noble";
+	par = 19.0;
+	id = 77;
+}
+
+altlevel
+{
+	file = "2-7x";
+	name = "The Moon";
+	par = 30.0;
+	id = 78;
+}
+
+altlevel
+{
+	file = "2-8x";
+	name = "Grape Soda";
+	par = 33.0;
+	id = 79;
+}
+
+altlevel
+{
+	file = "2-9x";
+	name = "Centipede";
+	par = 14.0;
+	id = 80;
+}
+
+altlevel
+{
+	file = "2-10x";
+	name = "The Kracken";
+	par = 13.0;
+	id = 81;
+}
+
+altlevel
+{
+	file = "2-11x";
+	name = "Spineless";
+	par = 12.5;
+	id = 82;
+}
+
+altlevel
+{
+	file = "2-12x";
+	name = "Grey Matter";
+	par = 22.5;
+	id = 83;
+}
+
+altlevel
+{
+	file = "2-13x";
+	name = "Dust Bunnies";
+	par = 11.0;
+	id = 84;
+}
+
+altlevel
+{
+	file = "2-14x";
+	name = "Crawl Space";
+	par = 31.0;
+	id = 85;
+}
+
+altlevel
+{
+	file = "2-15x";
+	name = "Insurance?";
+	par = 32.0;
+	id = 86;
+}
+
+altlevel
+{
+	file = "2-16x";
+	name = "P.S.Y.";
+	par = 16.0;
+	id = 87;
+}
+
+altlevel
+{
+	file = "2-17x";
+	name = "Nels Box";
+	par = 12.0;
+	id = 88;
+}
+
+altlevel
+{
+	file = "2-18x";
+	name = "electrolysis";
+	par = 17.0;
+	id = 89;
+}
+
+altlevel
+{
+	file = "2-19x";
+	name = "Tenebrae";
+	par = 26.0;
+	id = 90;
+}
+
+altlevel
+{
+	file = "2-20x";
+	name = "Solemnity";
+	par = 36.0;
+	id = 91;
+}
+
+warp
+{
+	intro = "retroh1intro.am";
+	id = 1;
+	char = 2;
+                  name = "(The Blood Shed)";
+}
+
+warp1level
+{
+	file = "hretro1";
+	name = "some name";
+	par = 5.0;
+	id = 92;
+}
+
+warp1level
+{
+	file = "hretro2";
+	name = "some name";
+	par = 5.0;
+	id = 93;
+}
+
+warp1level
+{
+	file = "hretro3";
+	name = "some name";
+	par = 5.0;
+	id = 94;
+}
+
+warp
+{
+	intro = "jill.am";
+	id = 2;
+	char = 19;
+                  name = "The Bootlicker!";
+}
+
+warp2level
+{
+	file = "jill1-1";
+	name = "some name";
+	par = 5.0;
+	id = 95;
+}
+
+warp2level
+{
+	file = "jill1-2";
+	name = "some name";
+	par = 5.0;
+	id = 96;
+}
+
+warp2level
+{
+	file = "jill1-3";
+	name = "some name";
+	par = 5.0;
+	id = 97;
+}
+
+warp
+{
+	intro = "gbhintro.am";
+	id = 3;
+	char = 3;
+                  name = "(Castle Crushers)";
+}
+
+warp3level
+{
+	file = "gameboy2-1";
+	name = "some name";
+	par = 5.0;
+	id = 98;
+}
+
+warp3level
+{
+	file = "gameboy2-2";
+	name = "some name";
+	par = 5.0;
+	id = 99;
+}
+
+warp3level
+{
+	file = "gameboy2-3";
+	name = "some name";
+	par = 5.0;
+	id = 100;
+}
+
+warp
+{
+	intro = "4bit1intro.am";
+	id = 4;
+	char = 4;
+                  name = "(1977)";
+}
+
+warp4level
+{
+	file = "4bit2-1";
+	name = "some name";
+	par = 5.0;
+	id = 101;
+}
+
+warp4level
+{
+	file = "4bit2-2";
+	name = "some name";
+	par = 5.0;
+	id = 102;
+}
+
+warp4level
+{
+	file = "4bit2-3";
+	name = "some name";
+	par = 5.0;
+	id = 103;
+}
+
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 5;
+        name = "-2 |> '-' |>";
+}
+
+warp5level
+{
+	file = "-2";
+	name = "-2 |> '-' |>";
+	par = 5.0;
+	id = 591;
+}
+
+

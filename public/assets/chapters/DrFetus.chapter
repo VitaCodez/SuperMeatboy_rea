@@ -1,0 +1,182 @@
+chapter
+{
+	name = "The End";
+	music = "ch6.wav";
+	altmusic = "ch6dark.wav";
+	warpmusic = "retrohell_music.wav";
+	menunormalmusic = "ch6normalmenu.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "ch6intro.am";
+	bossintro = "boss6intro.am";
+	bossoutro = "boss6out.am";
+	bossmusic = "boss6.wav";
+}
+
+normlevel
+{
+	file = "6-1";
+	name = "The Pit";
+	par = 30.0;
+	id = 260;
+}
+
+normlevel
+{
+	file = "6-2";
+	name = "Schism";
+	par = 44.0;
+	id = 261;
+}
+
+normlevel
+{
+	file = "6-3";
+	name = "Echoes";
+	par = 34;
+	id = 262;
+}
+
+normlevel
+{
+	file = "6-4";
+	name = "Gently";
+	par =33;
+	id = 263;
+}
+
+normlevel
+{
+	file = "6-5";
+	name = "Omega";
+	par = 44;
+	id = 264;
+}
+
+bosslevel
+{
+	file = "boss6";
+	altfile = "boss6x";
+	name = "Dr. Fetus";
+	par = 44;
+}
+
+altlevel
+{
+	file = "6-1x";
+	name = "Detox";
+	par = 40.0;
+	id = 265;
+}
+
+altlevel
+{
+	file = "6-2x";
+	name = "Ghost Tomb";
+	par = 50;
+	id = 266;
+}
+
+altlevel
+{
+	file = "6-3x";
+	name = "From Beyond";
+	par = 70;
+	id = 267;
+}
+
+altlevel
+{
+	file = "6-4x";
+	name = "Maze of Ith";
+	par = 50;
+	id = 268;
+}
+
+altlevel
+{
+	file = "6-5x";
+	name = "No Quarter";
+	par = 60;
+	id = 269;
+}
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 1;
+        name = "-6 |> '-' |>";
+}
+
+warp1level
+{
+	file = "-6";
+	name = "-6 |> '-' |>";
+	par = 5.0;
+	id = 595;
+}
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 2;
+        name = "-6 |> '-' |>";
+}
+
+warp2level
+{
+	file = "-6";
+	name = "-6 |> '-' |>";
+	par = 5.0;
+	id = 595;
+}
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 3;
+        name = "-6 |> '-' |>";
+}
+
+warp3level
+{
+	file = "-6";
+	name = "-6 |> '-' |>";
+	par = 5.0;
+	id = 595;
+}
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 4;
+        name = "-6 |> '-' |>";
+}
+
+warp4level
+{
+	file = "-6";
+	name = "-6 |> '-' |>";
+	par = 5.0;
+	id = 595;
+}
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 5;
+        name = "-6 |> '-' |>";
+}
+
+warp5level
+{
+	file = "-6";
+	name = "-6 |> '-' |>";
+	par = 5.0;
+	id = 595;
+}

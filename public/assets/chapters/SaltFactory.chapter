@@ -1,0 +1,494 @@
+chapter
+{
+	name = "Factory";
+	music = "factory.wav";
+	altmusic = "altfactory.wav";
+	warpmusic = "retrofactory32khz_music.wav";
+	menunormalmusic = "factorymenu.wav";
+	menuretromusic = "evilfactorymenu.wav";
+	warptrans = "warp.am";
+	intro = "ch3intro.am";
+	bossintro = "boss3intro.am";
+	bossoutro = "boss3outro.am";
+	bossmusic = "boss3.wav";
+}
+
+normlevel
+{
+	file = "3-1";
+	name = "Pit Stop";
+	par = 9.5;
+	id = 104;
+}
+
+normlevel
+{
+	file = "3-2";
+	name = "The Salt Lick";
+	par = 8.3;
+	id = 105;
+}
+
+normlevel
+{
+	file = "3-3";
+	name = "Push";
+	par = 16;
+	id = 106;
+}
+
+normlevel
+{
+	file = "3-4";
+	name = "Transmissions";
+	par = 12;
+	id = 107;
+}
+
+normlevel
+{
+	file = "3-5";
+	name = "Uptown";
+	par = 12.2;
+	warpid = 3;
+	id = 108;
+}
+
+normlevel
+{
+	file = "3-6";
+	name = "The Shaft";
+	par = 4.5;
+	id = 109;
+}
+
+normlevel
+{
+	file = "3-7";
+	name = "Mind the Gap";
+	par = 12.4;
+	warpid = 1;
+	id = 110;
+}
+
+normlevel
+{
+	file = "3-8";
+	name = "Boomtown";
+	par = 8.3;
+	id = 111;
+}
+
+normlevel
+{
+	file = "3-9";
+	name = "Shotzie!";
+	par = 12.5;
+	id = 112;
+}
+
+normlevel
+{
+	file = "3-10";
+	name = "Breakdown";
+	par = 10.5;
+	id = 113;
+}
+
+normlevel
+{
+	file = "3-11";
+	name = "Box Tripper";
+	par =9.0;
+	id = 114;
+}
+
+normlevel
+{
+	file = "3-12";
+	name = "The Dumper";
+	par = 11.6;
+	id = 115;
+}
+
+normlevel
+{
+	file = "3-13";
+	name = "The Bend";
+	par = 15.8;
+	id = 116;
+}
+
+normlevel
+{
+	file = "3-14";
+	name = "Gurdy";
+	par = 14.8;
+	id = 117;
+}
+
+normlevel
+{
+	file = "3-15";
+	name = "Vertigo";
+	par = 14.8;
+	id = 118;
+}
+
+normlevel
+{
+	file = "3-16";
+	name = "Mono";
+	par = 14.8;
+	warpid = 2;
+	id = 119;
+}
+
+
+normlevel
+{
+	file = "3-17";
+	name = "Rustic";
+	par = 10.5;
+	id = 120;
+}
+
+normlevel
+{
+	file = "3-18";
+	name = "The Grundle";
+	par = 17.0;
+	id = 121;
+}
+
+normlevel
+{
+	file = "3-19";
+	name = "Dig";
+	par = 17.0;
+	id = 122;
+}
+
+normlevel
+{
+	file = "3-20";
+	name = "White Noise";
+	par = 20;
+	id = 123;
+}
+
+bosslevel
+{
+	file = "boss3";
+	name = "Brownie";
+	par = 40.0;
+}
+altlevel
+{
+	file = "3-1x";
+	name = "Step one";
+	par = 23.0;
+	id = 124;
+}
+
+altlevel
+{
+	file = "3-2x";
+	name = "Salt + Wound";
+	par = 16.0;
+	id = 125;
+}
+
+altlevel
+{
+	file = "3-3x";
+	name = "The Red Room";
+	par = 16.5;
+	id = 126;
+}
+
+altlevel
+{
+	file = "3-4x";
+	name = "Assemble";
+	par = 20.0;
+	id = 127;
+}
+
+altlevel
+{
+	file = "3-5x";
+	name = "Wasp";
+	par = 28.0;
+	id = 128;
+}
+
+altlevel
+{
+	file = "3-6x";
+	name = "Not You Again";
+	par = 20.0;
+	id = 129;
+}
+
+altlevel
+{
+	file = "3-7x";
+	name = "Pluck";
+	par = 15.5;
+	id = 130;
+}
+
+altlevel
+{
+	file = "3-8x";
+	name = "Salt Crown";
+	par = 17.5;
+	warpid = 4;
+	id = 131;
+}
+
+altlevel
+{
+	file = "3-9x";
+	name = "Goliath";
+	par = 21.0;
+	id = 132;
+}
+
+altlevel
+{
+	file = "3-10x";
+	name = "Exploder";
+	par = 18.0;
+	id = 133;
+}
+
+altlevel
+{
+	file = "3-11x";
+	name = "The Salt Man";
+	par = 24;
+	id = 134;
+}
+
+altlevel
+{
+	file = "3-12x";
+	name = "Hellevator";
+	par = 11.6;
+	id = 135;
+}
+
+altlevel
+{
+	file = "3-13x";
+	name = "Black Circle";
+	par = 40.0;
+	id = 136;
+}
+
+altlevel
+{
+	file = "3-14x";
+	name = "Salmon";
+	par = 18;
+	id = 137;
+}
+
+altlevel
+{
+	file = "3-15x";
+	name = "Vertebreaker";
+	par = 27;
+	id = 138;
+}
+
+altlevel
+{
+	file = "3-16x";
+	name = "The Chaser";
+	par = 24;
+	id = 139;
+}
+
+altlevel
+{
+	file = "3-17x";
+	name = "Ashes";
+	par = 11.5;
+	id = 140;
+}
+
+altlevel
+{
+	file = "3-18x";
+	name = "Bile Duct";
+	par = 17.0;
+	id = 141;
+}
+
+altlevel
+{
+	file = "3-19x";
+	name = "El Topo";
+	par = 17.0;
+	id = 142;
+}
+
+altlevel
+{
+	file = "3-20x";
+	name = "Sweet Pea";
+	par = 25.5;
+	id = 143;
+}
+
+
+
+warp
+{
+	intro = "gbsintro.am";
+	id = 1;
+	char = 3;
+                  name = "(Tunnel Vision)";
+}
+
+warp1level
+{
+	file = "gameboy3-1";
+	name = "some name";
+	par = 5.0;
+	id = 144;
+}
+
+warp1level
+{
+	file = "gameboy3-2";
+	name = "some name";
+	par = 5.0;
+	id = 145;
+}
+
+warp1level
+{
+	file = "gameboy3-3";
+	name = "some name";
+	par = 5.0;
+	id = 146;
+}
+
+warp
+{
+	intro = "ogmo.am";
+	id = 2;
+	char = 25;
+                  name = "The Jump Man!";
+}
+
+warp2level
+{
+	file = "ogmo1";
+	name = "some name";
+	par = 5.0;
+	id = 147;
+}
+
+warp2level
+{
+	file = "ogmo2";
+	name = "some name";
+	par = 5.0;
+	id = 148;
+}
+
+warp2level
+{
+	file = "ogmo3";
+	name = "some name";
+	par = 5.0;
+	id = 149;
+}
+
+warp
+{
+	intro = "4bit2intro.am";
+	id = 3;
+	char = 4;
+                  name = "(Cartridge Dump)";
+}
+
+warp3level
+{
+	file = "4bit3-1";
+	name = "some name";
+	par = 5.0;
+	id = 150;
+}
+
+warp3level
+{
+	file = "4bit3-2";
+	name = "some name";
+	par = 5.0;
+	id = 151;
+}
+
+warp3level
+{
+	file = "4bit3-3";
+	name = "some name";
+	par = 5.0;
+	id = 152;
+}
+
+
+warp
+{
+	intro = "retro3intro.am";
+	id = 4;
+	char = 2;
+                  name = "(Kontra)";
+}
+
+warp4level
+{
+	file = "retro3-1";
+	name = "some name";
+	par = 5.0;
+	id = 153;
+}
+
+warp4level
+{
+	file = "retro3-2";
+	name = "some name";
+	par = 5.0;
+	id = 154;
+}
+
+warp4level
+{
+	file = "retro3-3";
+	name = "some name";
+	par = 5.0;
+	id = 155;
+}
+
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 5;
+        name = "-3 |> '-' |>";
+}
+
+warp5level
+{
+	file = "-3";
+	name = "-3 |> '-' |>";
+	par = 5.0;
+	id = 592;
+}
+

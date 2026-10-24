@@ -1,0 +1,489 @@
+chapter
+{
+	name = "Hell";
+	music = "hell.wav";
+	altmusic = "hardhell.wav";
+	warpmusic = "retrohell_music.wav";
+	menunormalmusic = "menunormalhell.wav";
+	menuretromusic = "menuhardhell.wav";
+	warptrans = "warp.am";
+	intro = "ch4intro.am";
+	bossintro = "boss4intro.am";
+	bossoutro = "boss4outro.am";
+	bossmusic = "boss4.wav";
+}
+
+normlevel
+{
+	file = "4-1";
+	name = "Boilermaker";
+	par = 11.0;
+	id = 156;
+}
+
+normlevel
+{
+	file = "4-2";
+	name = "Brindle";
+	par = 23.0;
+	id = 157;
+}
+
+normlevel
+{
+	file = "4-3";
+	name = "Heck Hole";
+	par = 11.5;
+	id = 158;
+}
+
+normlevel
+{
+	file = "4-4";
+	name = "Hex";
+	par =11.5;
+	id = 159;
+}
+
+normlevel
+{
+	file = "4-5";
+	name = "Pyro";
+	par = 12.0;
+	id = 160;
+}
+
+normlevel
+{
+	file = "4-6";
+	name = "Leviathan";
+	par = 8.0;
+	id = 161;
+}
+
+normlevel
+{
+	file = "4-7";
+	name = "Rickets";
+	par = 17;
+	id = 162;
+}
+
+normlevel
+{
+	file = "4-8";
+	name = "Weibe";
+	par = 16.0;
+	warpid = 3;
+	id = 163;
+}
+
+normlevel
+{
+	file = "4-9";
+	name = "Deceiver";
+	par = 6.0;
+	id = 164;
+}
+
+normlevel
+{
+	file = "4-10";
+	name = "Ball n Chain";
+	par = 15;
+	id = 165;
+}
+
+normlevel
+{
+	file = "4-11";
+	name = "Oracle";
+	par =12.5;
+	id = 166;
+}
+
+normlevel
+{
+	file = "4-12";
+	name = "Big Brother";
+	par = 10.8;
+	id = 167;
+}
+
+normlevel
+{
+	file = "4-13";
+	name = "Lazy";
+	par = 11.5;
+	id = 168;
+}
+
+normlevel
+{
+	file = "4-14";
+	name = "Adversary";
+	par = 17.5;
+	warpid = 1;
+	id = 169;
+}
+
+normlevel
+{
+	file = "4-15";
+	name = "Abaddon";
+	par = 9.0;
+	id = 170;
+}
+
+normlevel
+{
+	file = "4-16";
+	name = "Bow";
+	par = 12.0;
+	id = 171;
+}
+
+normlevel
+{
+	file = "4-17";
+	name = "Lost Highway";
+	par = 12.0;
+	id = 172;
+}
+
+normlevel
+{
+	file = "4-18";
+	name = "Boris";
+	par = 24.5;
+                  warpid = 2;
+	id = 173;
+}
+
+normlevel
+{
+	file = "4-19";
+	name = "The Hive";
+	par = 14.0;
+	id = 174;
+}
+
+normlevel
+{
+	file = "4-20";
+	name = "Babylon";
+	par = 22.0;
+	id = 175;
+}
+bosslevel
+{
+	file = "boss4";
+	name = "Little Horn";
+	par = 40.0;
+}
+altlevel
+{
+	file = "4-1x";
+	name = "Gretel";
+	par = 19.0;
+	id = 176;
+}
+
+altlevel
+{
+	file = "4-2x";
+	name = "Golgotha";
+	par = 16.5;
+	id = 177;
+}
+
+altlevel
+{
+	file = "4-3x";
+	name = "Char";
+	par = 12;
+	id = 178;
+}
+
+altlevel
+{
+	file = "4-4x";
+	name = "Altered";
+	par = 17.5;
+	id = 179;
+}
+
+altlevel
+{
+	file = "4-5x";
+	name = "Wicked One";
+	par = 14.0;
+	id = 180;
+}
+
+altlevel
+{
+	file = "4-6x";
+	name = "The Gnashing";
+	par = 19.0;
+	id = 181;
+}
+
+altlevel
+{
+	file = "4-7x";
+	name = "Thistle";
+	par = 18.0;
+	warpid = 4;
+	id = 182;
+}
+
+altlevel
+{
+	file = "4-8x";
+	name = "Billy Boy";
+	par = 19.0;
+	id = 183;
+}
+
+altlevel
+{
+	file = "4-9x";
+	name = "Glut";
+	par = 10.5;
+	id = 184;
+}
+
+altlevel
+{
+	file = "4-10x";
+	name = "Gallow";
+	par = 17.0;
+	id = 185;
+}
+
+altlevel
+{
+	file = "4-11x";
+	name = "Surrender";
+	par = 16.5;
+	id = 186;
+}
+
+altlevel
+{
+	file = "4-12x";
+	name = "Beholder";
+	par = 18.5;
+	id = 187;
+}
+
+altlevel
+{
+	file = "4-13x";
+	name = "Oblivion";
+	par = 23.0;
+	id = 188;
+}
+
+altlevel
+{
+	file = "4-14x";
+	name = "Old Scratch";
+	par = 20.0;
+	id = 189;
+}
+
+altlevel
+{
+	file = "4-15x";
+	name = "Bone Yard";
+	par = 11.0;
+	id = 190;
+}
+
+altlevel
+{
+	file = "4-16x";
+	name = "Starless";
+	par = 11.5;
+	id = 191;
+}
+
+altlevel
+{
+	file = "4-17x";
+	name = "Invocation";
+	par = 18.0;
+	id = 192;
+}
+
+altlevel
+{
+	file = "4-18x";
+	name = "Sag Chamber";
+	par = 29.0;
+	id = 193;
+}
+
+altlevel
+{
+	file = "4-19x";
+	name = "Long Goodbye";
+	par = 14.0;
+	id = 194;
+}
+
+altlevel
+{
+	file = "4-20x";
+	name = "Imperial";
+	par = 31.0;
+	id = 195;
+}
+
+warp
+{
+	intro = "gbheintro.am";
+	id = 1;
+	char = 3;
+                  name = "(The Key Master)";
+}
+
+warp1level
+{
+	file = "gameboy4-1";
+	name = "some name";
+	par = 5.0;
+	id = 196;
+}
+
+warp1level
+{
+	file = "gameboy4-2";
+	name = "some name";
+	par = 5.0;
+	id = 197;
+}
+
+warp1level
+{
+	file = "gameboy4-3";
+	name = "some name";
+	par = 5.0;
+	id = 198;
+}
+
+warp
+{
+	intro = "flywrench.am";
+	id = 2;
+	char = 17;
+                  name = "The Fly Guy!";
+}
+
+warp2level
+{
+	file = "fly1";
+	name = "some name";
+	par = 5.0;
+	id = 199;
+}
+
+warp2level
+{
+	file = "fly2";
+	name = "some name";
+	par = 5.0;
+	id = 200;
+}
+
+warp2level
+{
+	file = "fly3";
+	name = "some name";
+	par = 5.0;
+	id = 201;
+}
+
+warp
+{
+	intro = "retro4intro.am";
+	id = 3;
+	char = 2;
+                  name = "(Brimstone)";
+}
+
+warp3level
+{
+	file = "retro4-1";
+	name = "some name";
+	par = 5.0;
+	id = 202;
+}
+
+warp3level
+{
+	file = "retro4-2";
+	name = "some name";
+	par = 5.0;
+	id = 203;
+}
+
+warp3level
+{
+	file = "retro4-3";
+	name = "some name";
+	par = 5.0;
+	id = 204;
+}
+
+warp
+{
+	intro = "4bit4intro.am";
+	id = 4;
+	char = 4;
+                  name = "(mmmmmm)";
+}
+
+warp4level
+{
+	file = "4bit4-1";
+	name = "some name";
+	par = 5.0;
+	id = 205;
+}
+
+warp4level
+{
+	file = "4bit4-2";
+	name = "some name";
+	par = 5.0;
+	id = 206;
+}
+
+warp4level
+{
+	file = "4bit4-3";
+	name = "some name";
+	par = 5.0;
+	id = 207;
+}
+
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 5;
+        name = "-4 |> '-' |>";
+}
+
+warp5level
+{
+	file = "-4";
+	name = "-4 |> '-' |>";
+	par = 5.0;
+	id = 593;
+}
+

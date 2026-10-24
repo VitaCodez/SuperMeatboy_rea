@@ -1,0 +1,180 @@
+chapter
+{
+	name = "Paradise Lost (Nova)";
+	music = "hardhell.wav";
+	altmusic = "hardhell.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+	overridechar = 6;
+	lives = 30;
+	time = 100.5;
+}
+
+normlevel
+{
+	file = "paradise1";
+	name = "Chili";
+	par = 7.0;
+	id = 470;
+}
+
+normlevel
+{
+	file = "paradise2";
+	name = "Rig";
+	par = 13.5;
+	id = 471;
+}
+
+normlevel
+{
+	file = "paradise3";
+	name = "S.H.A.F.T.";
+	par =15.0;
+	id = 472;
+}
+
+normlevel
+{
+	file = "paradise4";
+	name = "Blues";
+	par = 13.0;
+	id = 473;
+}
+
+normlevel
+{
+	file = "paradise5";
+	name = "Clockwork";
+	par = 5.0;
+	id = 474;
+}
+
+normlevel
+{
+	file = "paradise6";
+	name = "Acid Rain";
+	par = 5.0;
+	id = 475;
+}
+
+normlevel
+{
+	file = "paradise7";
+	name = "The Mist";
+	par = 7.0;
+	id = 476;
+}
+
+normlevel
+{
+	file = "paradise8";
+	name = "Paradigm";
+	par = 15.0;
+	id = 477;
+}
+
+normlevel
+{
+	file = "paradise9";
+	name = "condom joke";
+	par = 8;
+	id = 478;
+}
+
+normlevel
+{
+	file = "paradise10";
+	name = "H.A.L.L.";
+	par = 12;
+	id = 479;
+}
+
+normlevel1-11
+{
+	file = "paradise11";
+	name = "The Plant";
+	par =11.0;
+	id = 480;
+}
+
+normlevel
+{
+	file = "paradise12";
+	name = "Midnight";
+	par = 12.0;
+	id = 481;
+}
+
+normlevel
+{
+	file = "paradise13";
+	name = "and down";
+	par = 8.5;
+	id = 482;
+}
+
+normlevel
+{
+	file = "paradise14";
+	name = "Grand Prix";
+	par = 13;
+	id = 483;
+}
+
+normlevel
+{
+	file = "paradise15";
+	name = "Salt Joke";
+	par = 10.5;
+	id = 484;
+}
+
+normlevel
+{
+	file = "paradise16";
+	name = "Going Green";
+	par = 17.0;
+	id = 485;
+}
+
+
+normlevel
+{
+	file = "paradise17";
+	name = "Deception";
+	par = 10.0;
+	id = 486;
+}
+
+normlevel
+{
+	file = "paradise18";
+	name = "Stardust";
+	par = 9.0;
+	id = 487;
+}
+
+normlevel
+{
+	file = "paradise19";
+	name = "Milk";
+	par = 33.0;
+	id = 488;
+}
+
+normlevel
+{
+	file = "paradise20";
+	name = "Behemoth";
+	par = 37.0;
+	id = 489;
+} 
+
+

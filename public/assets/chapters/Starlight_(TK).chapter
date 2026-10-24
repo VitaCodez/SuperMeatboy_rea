@@ -1,0 +1,177 @@
+chapter
+{
+	name = "Starlight";
+	music = "ch2track.wav";
+	altmusic = "ch2track.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+}
+
+normlevel
+{
+	file = "star01";
+	name = "Rubicon";
+	par = 20.0;
+	id = 490;
+}
+
+normlevel
+{
+	file = "star02";
+	name = "Pillbox";
+	par = 12.5;
+	id = 491;
+}
+
+normlevel
+{
+	file = "star03";
+	name = "Pale Moon";
+	par =13.0;
+	id = 492;
+}
+
+normlevel
+{
+	file = "star04";
+	name = "Phobos";
+	par = 13.25;
+	id = 493;
+}
+
+normlevel
+{
+	file = "star05";
+	name = "Long Eyeland";
+	par = 11.25;
+	id = 494;
+}
+
+normlevel
+{
+	file = "star06";
+	name = "Big Babel";
+	par = 13.0;
+	id = 495;
+}
+
+normlevel
+{
+	file = "star07";
+	name = "Domino";
+	par = 11.50;
+	id = 496;
+}
+
+normlevel
+{
+	file = "star08";
+	name = "Pink Death";
+	par = 9.50;
+	id = 497;
+}
+
+normlevel
+{
+	file = "star09";
+	name = "16th Parallel";
+	par = 15;
+	id = 498;
+}
+
+normlevel
+{
+	file = "star10";
+	name = "Red Planet";
+	par = 7.5;
+	id = 499;
+}
+
+normlevel1-11
+{
+	file = "star11";
+	name = "Milky Way";
+	par =13.0;
+	id = 500;
+}
+
+normlevel
+{
+	file = "star12";
+	name = "Wrath of God";
+	par = 15.0;
+	id = 501;
+}
+
+normlevel
+{
+	file = "star13";
+	name = "Limoncello";
+	par = 14.5;
+	id = 502;
+}
+
+normlevel
+{
+	file = "star14";
+	name = "Wimpy";
+	par = 17.25;
+	id = 503;
+}
+
+normlevel
+{
+	file = "star15";
+	name = "Narrows";
+	par = 13.0;
+	id = 504;
+}
+
+normlevel
+{
+	file = "star16";
+	name = "Grimace";
+	par = 13.50;
+	id = 505;
+}
+
+
+normlevel
+{
+	file = "star17";
+	name = "Atlantis";
+	par = 11.0;
+	id = 506;
+}
+
+normlevel
+{
+	file = "star18";
+	name = "200 Degreest";
+	par = 9.0;
+	id = 507;
+}
+
+normlevel
+{
+	file = "star19";
+	name = "Shaftstop";
+	par = 14.0;
+	id = 508;
+}
+
+normlevel
+{
+	file = "star20";
+	name = "Durandal";
+	par = 24.0;
+	id = 509;
+} 
+
+

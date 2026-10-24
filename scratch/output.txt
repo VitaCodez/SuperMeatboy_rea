@@ -1,0 +1,13 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:1
++ python scratch/parse_am.py 2>&1 | Out-File -FilePath scratch/output.t ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\skace\Documents\SuperMeatboyRewrite\scratch\parse_am.py", line 123, in <module>
+    
+  File "C:\Users\skace\Documents\SuperMeatboyRewrite\scratch\parse_am.py", line 62, in parse_am
+    pos += 4
+             
+struct.error: unpack requires a buffer of 4 bytes

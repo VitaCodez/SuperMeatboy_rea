@@ -1,0 +1,681 @@
+{
+  "4bit1": [
+    [
+      "tiles",
+      {
+        "texturepackage": "4bittiles01.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "retroset01.tp",
+        "packageindex": 2
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "retrosetpieces.tp",
+        "packageindex": 0,
+        "textureindex": "retrosetpieces_coords.itx"
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "retrosetani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "4bitobjects.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "4bittrans.am"
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retroset01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "4bitdrfetuspickup.am",
+        "numpickups": 1
+      }
+    ]
+  ],
+  "end": [
+    [
+      "tiles",
+      {
+        "texturepackage": "endtiles01.tp",
+        "packageindex": 0,
+        "tilesize": 50,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "endtiles01.tp",
+        "packageindex": 3
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "endpieces.tp",
+        "packageindex": 0,
+        "textureindex": "endpieces_coords.itx"
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "endtiles01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "endtiles01.tp",
+        "packageindex": 2
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "eani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "eobstacles.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "trans.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "drfetuspickup.am",
+        "numpickups": 8
+      }
+    ]
+  ],
+  "factory": [
+    [
+      "tiles",
+      {
+        "texturepackage": "factorytiles01.tp",
+        "packageindex": 0,
+        "tilesize": 50,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "factorytiles01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "sfsetpieces.tp",
+        "packageindex": 0,
+        "textureindex": "sfsetpieces_coords.itx"
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "factoryp01.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "factoryp01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "factoryp01.tp",
+        "packageindex": 2
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "sfani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "sfobstacles.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "trans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "factoryanimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "drfetuspickup.am",
+        "numpickups": 8
+      }
+    ]
+  ],
+  "forest": [
+    [
+      "tiles",
+      {
+        "texturepackage": "foresttiles01.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "forestbg.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "forestset1.tp",
+        "packageindex": 0,
+        "textureindex": "forestset1_coords.itx"
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "forestp01.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "forestp01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "forestani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "obstacles.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "trans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "forestanimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "drfetuspickup.am",
+        "numpickups": 8
+      }
+    ]
+  ],
+  "gb": [
+    [
+      "tiles",
+      {
+        "texturepackage": "gbtiles.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "gbtiles.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "gbsetpieces.tp",
+        "packageindex": 0,
+        "textureindex": "gbsetpieces_coords.itx"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "gbbjects.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "gbtrans.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "gbdrfetuspickup.am",
+        "numpickups": 1
+      }
+    ]
+  ],
+  "glitch": [
+    [
+      "tiles",
+      {
+        "texturepackage": "retrotiles01.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "retrotiles01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retropara01.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retropara01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retropara01.tp",
+        "packageindex": 2
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "retrosetpieces.tp",
+        "packageindex": 0,
+        "textureindex": "retrosetpieces_coords.itx"
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "retrosetani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "retroobjects.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "glitchtrans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "retroalanimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "8bitdrfetuspickup.am",
+        "numpickups": 1
+      }
+    ]
+  ],
+  "hell": [
+    [
+      "tiles",
+      {
+        "texturepackage": "helltiles01.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "helltiles01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "hellset.tp",
+        "packageindex": 0,
+        "textureindex": "hellset_coords.itx"
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "hellp.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "hellp.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "hellobstacles.am"
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "hellani.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "trans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "hanimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "drfetuspickup.am",
+        "numpickups": 8
+      }
+    ]
+  ],
+  "hospital": [
+    [
+      "tiles",
+      {
+        "texturepackage": "hospitaltiles01.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "hospitalbg.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "hparalax1.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "hsetpiece.tp",
+        "packageindex": 0,
+        "textureindex": "hsetpiece_coords.itx"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "hobstacles.am"
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "hani.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "trans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "hospitalanimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "drfetuspickup.am",
+        "numpickups": 8
+      }
+    ]
+  ],
+  "rapture": [
+    [
+      "tiles",
+      {
+        "texturepackage": "rapturetiles01.tp",
+        "packageindex": 0,
+        "tilesize": 50,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "rapturetiles01.tp",
+        "packageindex": 3
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "rsetpieces.tp",
+        "packageindex": 0,
+        "textureindex": "rsetpieces_coords.itx"
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "rapturetiles01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "rapturetiles01.tp",
+        "packageindex": 2
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "rani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "robstacles.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "trans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "ranimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "drfetuspickup.am",
+        "numpickups": 8
+      }
+    ]
+  ],
+  "retro1": [
+    [
+      "tiles",
+      {
+        "texturepackage": "retrotiles01.tp",
+        "packageindex": 0,
+        "tilesize": 60,
+        "numtiles": 100
+      }
+    ],
+    [
+      "background",
+      {
+        "texturepackage": "retrotiles01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retropara01.tp",
+        "packageindex": 0
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retropara01.tp",
+        "packageindex": 1
+      }
+    ],
+    [
+      "paralax",
+      {
+        "texturepackage": "retropara01.tp",
+        "packageindex": 2
+      }
+    ],
+    [
+      "setpieces",
+      {
+        "texturepackage": "retrosetpieces.tp",
+        "packageindex": 0,
+        "textureindex": "retrosetpieces_coords.itx"
+      }
+    ],
+    [
+      "animation",
+      {
+        "animationpackage": "retrosetani.am"
+      }
+    ],
+    [
+      "obstacles",
+      {
+        "animationpackage": "retroobjects.am"
+      }
+    ],
+    [
+      "transition",
+      {
+        "animationpackage": "nestrans.am"
+      }
+    ],
+    [
+      "animals",
+      {
+        "animationpackage": "retroalanimals.am"
+      }
+    ],
+    [
+      "Pickup",
+      {
+        "animationpackage": "8bitdrfetuspickup.am",
+        "numpickups": 1
+      }
+    ]
+  ]
+}

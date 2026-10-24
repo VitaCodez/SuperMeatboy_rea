@@ -1,0 +1,338 @@
+chapter
+{
+	name = "Factory";
+	music = "bgirl.wav";
+	altmusic = "bgirldark.wav";
+	warpmusic = "retrofactory32khz_music.wav";
+        menunormalmusic = "bmenu.wav";
+	menuretromusic = "bmenuhard.wav";
+	warptrans = "warp.am";
+	intro = "bintro.am";
+	bossintro = "boss2intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "ch2retro.wav";
+}
+
+normlevel
+{
+	file = "bonus1-1";
+	name = "Pink Noise";
+	par = 11;
+	id = 270;
+}
+
+normlevel
+{
+	file = "bonus1-2";
+	name = "Run Rabbit Run";
+	par = 13;
+	id = 271;
+}
+
+normlevel
+{
+	file = "bonus1-3";
+	name = "Spinal Tap";
+	par = 23;
+	id = 272;
+}
+
+normlevel
+{
+	file = "bonus1-4";
+	name = "Stag";
+	par = 26.0;
+	id = 273;
+}
+
+normlevel
+{
+	file = "bonus1-5";
+	name = "Tommunism";
+	par = 30.0;
+	id = 274;
+}
+
+normlevel
+{
+	file = "bonus1-6";
+	name = "Panic Attack";
+	par = 7.5;
+	id = 275;
+}
+
+normlevel
+{
+	file = "bonus1-7";
+	name = "Tunnel Blower";
+	par = 10.5;
+	id = 276;
+}
+
+normlevel
+{
+	file = "bonus1-8";
+	name = "Pig Latin";
+	par = 26.0;
+	id = 277;
+}
+
+normlevel
+{
+	file = "bonus1-9";
+	name = "Hatch";
+	par = 21.0;
+	id = 278;
+}
+
+normlevel
+{
+	file = "bonus1-10";
+	name = "Bullet Bob";
+	par = 32.0;
+	id = 279;
+}
+
+normlevel
+{
+	file = "bonus1-11";
+	name = "Train Eater";
+	par =18.0;
+	id = 280;
+}
+
+normlevel
+{
+	file = "bonus1-12";
+	name = "Peel";
+	par = 11.6;
+	id = 281;
+}
+
+normlevel
+{
+	file = "bonus1-13";
+	name = "Pepto";
+	par = 22;
+	id = 282;
+}
+
+normlevel
+{
+	file = "bonus1-14";
+	name = "Watchtower";
+	par = 40.;
+	id = 283;
+}
+
+normlevel
+{
+	file = "bonus1-15";
+	name = "Lock out";
+	par = 24.;
+	id = 284;
+}
+
+normlevel
+{
+	file = "bonus1-16";
+	name = "hopscotch";
+	par = 20.;
+	id = 285;
+}
+
+
+normlevel
+{
+	file = "bonus1-17";
+	name = "lead sheets";
+	par = 20.;
+	id = 286;
+}
+
+normlevel
+{
+	file = "bonus1-18";
+	name = "Oobs revenge";
+	par = 21;
+	id = 287;
+}
+
+normlevel
+{
+	file = "bonus1-19";
+	name = "The Rash";
+	par = 17.0;
+	id = 288;
+}
+
+normlevel
+{
+	file = "bonus1-20";
+	name = "4 letter word";
+	par = 45;
+	id = 289;
+}
+
+
+altlevel
+{
+	file = "bonus1-1x";
+	name = "White  Noise";
+	par = 60;
+	id = 290;
+}
+
+altlevel
+{
+	file = "bonus1-2x";
+	name = "Flipside";
+	par = 60;
+	id = 291;
+}
+
+altlevel
+{
+	file = "bonus1-3x";
+	name = "Organ Grinder";
+	par = 60;
+	id = 292;
+}
+
+altlevel
+{
+	file = "bonus1-4x";
+	name = "The Tower";
+	par = 60;
+	id = 293;
+}
+
+altlevel
+{
+	file = "bonus1-5x";
+	name = "Waiting Room";
+	par = 60;
+	id = 294;
+}
+
+altlevel
+{
+	file = "bonus1-6x";
+	name = "Bone Machine";
+	par = 60;
+	id = 295;
+}
+
+altlevel
+{
+	file = "bonus1-7x";
+	name = "Going up";
+	par = 60;
+	id = 296;
+}
+
+altlevel
+{
+	file = "bonus1-8x";
+	name = "In Line";
+	par = 60;
+	id = 297;
+}
+
+altlevel
+{
+	file = "bonus1-9x";
+	name = "Salt Shaker";
+	par = 60;
+	id = 298;
+}
+
+altlevel
+{
+	file = "bonus1-10x";
+	name = "MasterBlaster";
+	par = 60;
+	id = 299;
+}
+
+altlevel
+{
+	file = "bonus1-11x";
+	name = "Thumb";
+	par = 60;
+	id = 300;
+}
+
+altlevel
+{
+	file = "bonus1-12x";
+	name = "Pink";
+	par = 60;
+	id = 301;
+}
+
+altlevel
+{
+	file = "bonus1-13x";
+	name = "bleach";
+	par = 60;
+	id = 302;
+}
+
+altlevel
+{
+	file = "bonus1-14x";
+	name = "20/20";
+	par = 60;
+	id = 303;
+}
+
+altlevel
+{
+	file = "bonus1-15x";
+	name = "Patience";
+	par = 60;
+	id = 304;
+}
+
+altlevel
+{
+	file = "bonus1-16x";
+	name = "Curls";
+	par = 60.5;
+	id = 305;
+}
+
+altlevel
+{
+	file = "bonus1-17x";
+	name = "bullet proof";
+	par = 60.5;
+	id = 306;
+}
+
+altlevel
+{
+	file = "bonus1-18x";
+	name = "They Bite";
+	par = 60.0;
+	id = 307;
+}
+
+altlevel
+{
+	file = "bonus1-19x";
+	name = "XOXO";
+	par = 60.0;
+	id = 308;
+}
+
+altlevel
+{
+	file = "bonus1-20x";
+	name = "Brag rights";
+	par = 60.;
+	id = 309;
+}
+
+

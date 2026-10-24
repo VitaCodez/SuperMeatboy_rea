@@ -1,0 +1,495 @@
+chapter
+{
+	name = "The Rapture";
+	music = "ch5.wav";
+	altmusic = "ch5hard.wav";
+	warpmusic = "ch5retro_music.wav";
+	menunormalmusic = "ch5menu.wav";
+	menuretromusic = "ch5menuhard.wav";
+	warptrans = "warp.am";
+	intro = "ch5intro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "boss5outro.am";
+	bossmusic = "boss5.wav";
+}
+
+normlevel
+{
+	file = "5-1";
+	name = "the witness";
+	par = 22;
+	warpid = 1;
+	id = 208;
+}
+
+normlevel
+{
+	file = "5-2";
+	name = "evangel";
+	par = 13;
+	id = 209;
+}
+
+normlevel
+{
+	file = "5-3";
+	name = "Ripe Decay";
+	par = 18;
+	id = 210;
+}
+
+normlevel
+{
+	file = "5-4";
+	name = "Rise";
+	par = 13.5;
+	id = 211;
+}
+
+normlevel
+{
+	file = "5-5";
+	name = "Panic Switch";
+	par = 12.5;
+	id = 212;
+}
+
+normlevel
+{
+	file = "5-6";
+	name = "Left Behind";
+	par = 11;
+	id = 213;
+}
+
+normlevel
+{
+	file = "5-7";
+	name = "The Fallen";
+	par = 23;
+	warpid = 2;
+	id = 214;
+}
+
+normlevel
+{
+	file = "5-8";
+	name = "Descent";
+	par = 20;
+	id = 215;
+}
+
+normlevel
+{
+	file = "5-9";
+	name = "Abomination";
+	par = 19.5;
+	id = 216;
+}
+
+normlevel
+{
+	file = "5-10";
+	name = "Grinding Mill";
+	par = 15.5;
+	id = 217;
+}
+
+normlevel
+{
+	file = "5-11";
+	name = "Heretic";
+	par =18.5;
+	id = 218;
+}
+
+normlevel
+{
+	file = "5-12";
+	name = "10 Horns";
+	par = 16;
+	warpid = 3;
+	id = 219;
+}
+
+normlevel
+{
+	file = "5-13";
+	name = "The Lamb";
+	par = 20;
+	id = 220;
+}
+
+normlevel
+{
+	file = "5-14";
+	name = "King Carrion";
+	par = 30.5;
+	id = 221;
+}
+
+normlevel
+{
+	file = "5-15";
+	name = "The Flood";
+	par = 13.5;
+	id = 222;
+}
+
+normlevel
+{
+	file = "5-16";
+	name = "Rotgut";
+	par = 30;
+	id = 223;
+}
+
+
+normlevel
+{
+	file = "5-17";
+	name = "The Kingdom";
+	par = 23;
+	id = 224;
+}
+
+normlevel
+{
+	file = "5-18";
+	name = "Gate of Ludd";
+	par = 17;
+	id = 225;
+}
+
+normlevel
+{
+	file = "5-19";
+	name = "Wrath";
+	par = 29;
+	id = 226;
+}
+
+normlevel
+{
+	file = "5-20";
+	name = "Judgment";
+	par = 32;
+	id = 227;
+}
+
+bosslevel
+{
+	file = "boss5";
+	name = "Larries Lament";
+	par = 40.0;
+}
+
+
+altlevel
+{
+	file = "5-1x";
+	name = "The Clot";
+	par = 30.0;
+	id = 228;
+}
+
+altlevel
+{
+	file = "5-2x";
+	name = "Loomer";
+	par = 17.0;
+	id = 229;
+}
+
+altlevel
+{
+	file = "5-3x";
+	name = "Spank";
+	par = 35.0;
+	id = 230;
+}
+
+altlevel
+{
+	file = "5-4x";
+	name = "Alabaster";
+	par = 27.0;
+	id = 231;
+}
+
+altlevel
+{
+	file = "5-5x";
+	name = "Nix";
+	par = 18.0;
+	id = 232;
+}
+
+altlevel
+{
+	file = "5-6x";
+	name = "Ripcord";
+	par = 12.0;
+	id = 233;
+}
+
+altlevel
+{
+	file = "5-7x";
+	name = "Downpour";
+	par = 15.0;
+	id = 234;
+}
+
+altlevel
+{
+	file = "5-8x";
+	name = "Downer";
+	par = 26;
+	id = 235;
+}
+
+altlevel
+{
+	file = "5-9x";
+	name = "Swine";
+	par = 40;
+	id = 236;
+}
+
+altlevel
+{
+	file = "5-10x";
+	name = "Pulp Factory";
+	par = 15.0;
+	id = 237;
+}
+
+altlevel
+{
+	file = "5-11x";
+	name = "Blight";
+	par = 25;
+	id = 238;
+}
+
+altlevel
+{
+	file = "5-12x";
+	name = "Canker";
+	par = 26;
+	id = 239;
+}
+
+altlevel
+{
+	file = "5-13x";
+	name = "Halo of Flies";
+	par = 25;
+	id = 240;
+}
+
+altlevel
+{
+	file = "5-14x";
+	name = "Necrosis";
+	par = 60;
+	id = 241;
+}
+
+altlevel
+{
+	file = "5-15x";
+	name = "Choke";
+	par = 15;
+	id = 242;
+}
+
+altlevel
+{
+	file = "5-16x";
+	name = "Coil";
+	par = 32;
+	id = 243;
+}
+
+altlevel
+{
+	file = "5-17x";
+	name = "Millenium";
+	par = 27;
+	id = 244;
+}
+
+altlevel
+{
+	file = "5-18x";
+	name = "Stain";
+	par = 19;
+	id = 245;
+}
+
+altlevel
+{
+	file = "5-19x";
+	name = "Magog";
+	par = 41;
+	id = 246;
+}
+
+altlevel
+{
+	file = "5-20x";
+	name = "Quietus";
+	par = 48;
+	warpid = 4;
+	id = 247;
+}
+
+
+
+warp
+{
+	intro = "retro5intro.am";
+	id = 1;
+	char = 2;
+                  name = "(Skyscraper)";
+}
+
+warp1level
+{
+	file = "retro5-1";
+	name = "some name";
+	par = 5.0;
+	id = 248;
+}
+
+warp1level
+{
+	file = "retro5-2";
+	name = "some name";
+	par = 5.0;
+	id = 249;
+}
+
+warp1level
+{
+	file = "retro5-3";
+	name = "some name";
+	par = 5.0;
+	id = 250;
+}
+
+warp
+{
+	intro = "kidintro.am";
+	id = 2;
+	char = 23;
+                  name = "The Guy!";
+}
+
+warp2level
+{
+	file = "kid1-1";
+	name = "some name";
+	par = 5.0;
+	id = 310;
+}
+
+warp2level
+{
+	file = "kid1-2";
+	name = "some name";
+	par = 5.0;
+	id = 311;
+}
+
+warp2level
+{
+	file = "kid1-3";
+	name = "some name";
+	par = 5.0;
+	id = 312;
+}
+
+warp
+{
+	intro = "retro6intro.am";
+	id = 3;
+	char = 2;
+                  name = "(Sunshine Island)";
+}
+
+warp3level
+{
+	file = "retro6-1";
+	name = "some name";
+	par = 5.0;
+	id = 254;
+}
+
+warp3level
+{
+	file = "retro6-2";
+	name = "some name";
+	par = 5.0;
+	id = 255;
+}
+
+warp3level
+{
+	file = "retro6-3";
+	name = "some name";
+	par = 5.0;
+	id = 256;
+}
+
+
+warp
+{
+	intro = "retro7intro.am";
+	id = 4;
+	char = 2;
+                  name = "(Meat is Death)";
+}
+
+warp4level
+{
+	file = "retro7-1";
+	name = "some name";
+	par = 5.0;
+	id = 257;
+}
+
+warp4level
+{
+	file = "retro7-2";
+	name = "some name";
+	par = 5.0;
+	id = 258;
+}
+
+warp4level
+{
+	file = "retro7-3";
+	name = "some name";
+	par = 5.0;
+	id = 259;
+}
+
+
+warp
+{
+	intro = "glitchintro.am";
+	char = 2;
+	id = 5;
+        name = "-5 |> '-' |>";
+}
+
+warp5level
+{
+	file = "-5";
+	name = "-5 |> '-' |>";
+	par = 5.0;
+	id = 594;
+}

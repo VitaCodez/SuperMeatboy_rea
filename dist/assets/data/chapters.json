@@ -1,0 +1,5773 @@
+{
+  "Bandage": [
+    [
+      "chapter",
+      {
+        "name": "Factory",
+        "music": "bgirl.wav",
+        "altmusic": "bgirldark.wav",
+        "warpmusic": "retrofactory32khz_music.wav",
+        "menunormalmusic": "bmenu.wav",
+        "menuretromusic": "bmenuhard.wav",
+        "warptrans": "warp.am",
+        "intro": "bintro.am",
+        "bossintro": "boss2intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "ch2retro.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-1",
+        "name": "Pink Noise",
+        "par": 11,
+        "id": 270
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-2",
+        "name": "Run Rabbit Run",
+        "par": 13,
+        "id": 271
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-3",
+        "name": "Spinal Tap",
+        "par": 23,
+        "id": 272
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-4",
+        "name": "Stag",
+        "par": 26.0,
+        "id": 273
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-5",
+        "name": "Tommunism",
+        "par": 30.0,
+        "id": 274
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-6",
+        "name": "Panic Attack",
+        "par": 7.5,
+        "id": 275
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-7",
+        "name": "Tunnel Blower",
+        "par": 10.5,
+        "id": 276
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-8",
+        "name": "Pig Latin",
+        "par": 26.0,
+        "id": 277
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-9",
+        "name": "Hatch",
+        "par": 21.0,
+        "id": 278
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-10",
+        "name": "Bullet Bob",
+        "par": 32.0,
+        "id": 279
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-11",
+        "name": "Train Eater",
+        "par": 18.0,
+        "id": 280
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-12",
+        "name": "Peel",
+        "par": 11.6,
+        "id": 281
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-13",
+        "name": "Pepto",
+        "par": 22,
+        "id": 282
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-14",
+        "name": "Watchtower",
+        "par": 40.0,
+        "id": 283
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-15",
+        "name": "Lock out",
+        "par": 24.0,
+        "id": 284
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-16",
+        "name": "hopscotch",
+        "par": 20.0,
+        "id": 285
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-17",
+        "name": "lead sheets",
+        "par": 20.0,
+        "id": 286
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-18",
+        "name": "Oobs revenge",
+        "par": 21,
+        "id": 287
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-19",
+        "name": "The Rash",
+        "par": 17.0,
+        "id": 288
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "bonus1-20",
+        "name": "4 letter word",
+        "par": 45,
+        "id": 289
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-1x",
+        "name": "White  Noise",
+        "par": 60,
+        "id": 290
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-2x",
+        "name": "Flipside",
+        "par": 60,
+        "id": 291
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-3x",
+        "name": "Organ Grinder",
+        "par": 60,
+        "id": 292
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-4x",
+        "name": "The Tower",
+        "par": 60,
+        "id": 293
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-5x",
+        "name": "Waiting Room",
+        "par": 60,
+        "id": 294
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-6x",
+        "name": "Bone Machine",
+        "par": 60,
+        "id": 295
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-7x",
+        "name": "Going up",
+        "par": 60,
+        "id": 296
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-8x",
+        "name": "In Line",
+        "par": 60,
+        "id": 297
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-9x",
+        "name": "Salt Shaker",
+        "par": 60,
+        "id": 298
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-10x",
+        "name": "MasterBlaster",
+        "par": 60,
+        "id": 299
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-11x",
+        "name": "Thumb",
+        "par": 60,
+        "id": 300
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-12x",
+        "name": "Pink",
+        "par": 60,
+        "id": 301
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-13x",
+        "name": "bleach",
+        "par": 60,
+        "id": 302
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-14x",
+        "name": "20/20",
+        "par": 60,
+        "id": 303
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-15x",
+        "name": "Patience",
+        "par": 60,
+        "id": 304
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-16x",
+        "name": "Curls",
+        "par": 60.5,
+        "id": 305
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-17x",
+        "name": "bullet proof",
+        "par": 60.5,
+        "id": 306
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-18x",
+        "name": "They Bite",
+        "par": 60.0,
+        "id": 307
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-19x",
+        "name": "XOXO",
+        "par": 60.0,
+        "id": 308
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "bonus1-20x",
+        "name": "Brag rights",
+        "par": 60.0,
+        "id": 309
+      }
+    ]
+  ],
+  "Butcher_Boy": [
+    [
+      "chapter",
+      {
+        "name": "Butcher Boy",
+        "music": "internets.wav",
+        "altmusic": "internets.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "internetsmenu.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav",
+        "overridechar": 2,
+        "lives": 30,
+        "time": 100.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-1",
+        "name": "the path",
+        "par": 4.5,
+        "id": 350
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-2",
+        "name": "cliff hanger",
+        "par": 8,
+        "id": 351
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-3",
+        "name": "Dig-Dig",
+        "par": 38.5,
+        "id": 352
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-4",
+        "name": "Dr. Driller",
+        "par": 28.5,
+        "id": 353
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-5",
+        "name": "See Saw",
+        "par": 12.5,
+        "id": 354
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-6",
+        "name": "U,D,U,D,U,D",
+        "par": 13,
+        "id": 355
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-7",
+        "name": "Saw Guard",
+        "par": 7.5,
+        "id": 356
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-8",
+        "name": "Mostly Downs",
+        "par": 10.5,
+        "id": 357
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-9",
+        "name": "Double Dutch",
+        "par": 8,
+        "id": 358
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-10",
+        "name": "One Handed",
+        "par": 20.5,
+        "id": 359
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-11",
+        "name": "Ode to N",
+        "par": 7,
+        "id": 360
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-12",
+        "name": "Command Missile  ",
+        "par": 8.5,
+        "id": 361
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-13",
+        "name": "High Rise",
+        "par": 11,
+        "id": 362
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-14",
+        "name": "Convoy",
+        "par": 11,
+        "id": 363
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-15",
+        "name": "Dance!",
+        "par": 18.7,
+        "id": 364
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-16",
+        "name": "Mudslide",
+        "par": 17,
+        "id": 365
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-17",
+        "name": "Fantastic",
+        "par": 11.2,
+        "id": 366
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-18",
+        "name": "Square",
+        "par": 13,
+        "id": 367
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-19",
+        "name": "Thrice",
+        "par": 12,
+        "id": 368
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "i1-20",
+        "name": "1x1",
+        "par": 32,
+        "id": 369
+      }
+    ]
+  ],
+  "Cramps_(Nova)": [
+    [
+      "chapter",
+      {
+        "name": "Cramps (Nova)",
+        "music": "ch2track.wav",
+        "altmusic": "ch2track.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav",
+        "overridechar": 1,
+        "lives": 30,
+        "time": 100.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps1",
+        "name": "Ribs",
+        "par": 3.5,
+        "id": 410
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps2",
+        "name": "Lamp Oil",
+        "par": 12,
+        "id": 411
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps3",
+        "name": "Rope",
+        "par": 11.0,
+        "id": 412
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps4",
+        "name": "Bombs",
+        "par": 12.0,
+        "id": 413
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps5",
+        "name": "Spelunk",
+        "par": 16.0,
+        "id": 414
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps6",
+        "name": "Parkour",
+        "par": 12.0,
+        "id": 415
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps7",
+        "name": "Warszawa",
+        "par": 7.0,
+        "id": 416
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "Question mark",
+        "name": "Flex",
+        "par": 11.0,
+        "id": 417
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps9",
+        "name": "How do i do?",
+        "par": 11.0,
+        "id": 418
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps10",
+        "name": "What a shame",
+        "par": 15,
+        "id": 419
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps11",
+        "name": "CCCool",
+        "par": 26.0,
+        "id": 420
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps12",
+        "name": "Ribs 2",
+        "par": 19.0,
+        "id": 421
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps13",
+        "name": "Run like Smeg",
+        "par": 7.0,
+        "id": 422
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps14",
+        "name": "uh, no",
+        "par": 14,
+        "id": 423
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps15",
+        "name": "Hot",
+        "par": 19.0,
+        "id": 424
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps16",
+        "name": "I Orange",
+        "par": 17.0,
+        "id": 425
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps17",
+        "name": "Lemon-Lime ",
+        "par": 12.0,
+        "id": 426
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps18",
+        "name": "The Box",
+        "par": 19.0,
+        "id": 427
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps19",
+        "name": "Troll Face",
+        "par": 32.0,
+        "id": 428
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "cramps20",
+        "name": "U Meat",
+        "par": 3.0,
+        "id": 429
+      }
+    ]
+  ],
+  "Debug": [
+    [
+      "chapter",
+      {
+        "name": "Debug",
+        "music": "smbforest5.wav",
+        "warpmusic": "forestretro3.wav",
+        "menunormalmusic": "forestmenuloop.wav",
+        "menuretromusic": "evilforestmenuloop.wav",
+        "warptrans": "warp.am",
+        "intro": "fintro.am",
+        "bossintro": "fintro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "debug1-1",
+        "name": "Hello World",
+        "par": 3.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-2",
+        "name": "Upward",
+        "par": 5.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-3",
+        "name": "The Climb",
+        "par": 9.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-4",
+        "name": "Nutshell",
+        "par": 9.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-5",
+        "name": "Holy Mountain",
+        "par": 11.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-6",
+        "name": "Bladecatcher",
+        "par": 7.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-7",
+        "name": "Diverge",
+        "par": 5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-8",
+        "name": "The Bit",
+        "par": 4.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-9",
+        "name": "Safety Third",
+        "par": 8.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-10",
+        "name": "The Levee",
+        "par": 7.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-11",
+        "name": "Fired",
+        "par": 8.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-12",
+        "name": "Revolve",
+        "par": 7.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-13",
+        "name": "Toms Cabin",
+        "par": 7.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-14",
+        "name": "Blood Mountain",
+        "par": 8.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-15",
+        "name": "Cactus Jumper",
+        "par": 10.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-16",
+        "name": "Sidewinder",
+        "par": 9.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-17",
+        "name": "MorningStar",
+        "par": 9.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-18",
+        "name": "Altamont",
+        "par": 4.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-19",
+        "name": "Intermission",
+        "par": 20.0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-20",
+        "name": "The Test",
+        "par": 22.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-1x",
+        "name": "oh, hello",
+        "par": 3.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-2x",
+        "name": "Onward",
+        "par": 4.5
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-3x",
+        "name": "BZZZZZ",
+        "par": 10.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-4x",
+        "name": "Purple Rain",
+        "par": 12.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-5x",
+        "name": "Creamsoda",
+        "par": 10.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-6x",
+        "name": "Dark was the night",
+        "par": 7.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-7x",
+        "name": "Two Roads",
+        "par": 5.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-8x",
+        "name": "Big Red",
+        "par": 6.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-9x",
+        "name": "So close",
+        "par": 11.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-10x",
+        "name": "Walls",
+        "par": 11.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-11x",
+        "name": "Doused ",
+        "par": 13.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-12x",
+        "name": "Fireal",
+        "par": 12.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-13x",
+        "name": "Toms Cabin 2",
+        "par": 12.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-14x",
+        "name": "Idiot Flesh",
+        "par": 14.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-15x",
+        "name": "Kicking Machine",
+        "par": 18.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-16x",
+        "name": "Night Game",
+        "par": 17.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-17x",
+        "name": "The Clock",
+        "par": 12.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-18x",
+        "name": "Whitewash",
+        "par": 5.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-19x",
+        "name": "six, three times",
+        "par": 17.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-20x",
+        "name": "A perfect end",
+        "par": 25.0
+      }
+    ]
+  ],
+  "demo": [
+    [
+      "chapter",
+      {
+        "name": "Forest",
+        "music": "smbforest5.wav",
+        "altmusic": "smbforestalt.wav",
+        "warpmusic": "forestretro3.wav",
+        "menunormalmusic": "forestmenuloop.wav",
+        "menuretromusic": "evilforestmenuloop.wav",
+        "warptrans": "warp.am",
+        "intro": "dintro.am",
+        "bossintro": "bossintro1.am",
+        "bossoutro": "bossoutro.am",
+        "bossmusic": "bawsslewp.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-1",
+        "name": "Hello World",
+        "par": 3.0,
+        "id": 0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-2",
+        "name": "Upward",
+        "par": 5.0,
+        "id": 1
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-3",
+        "name": "The Climb",
+        "par": 9.0,
+        "id": 2
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-5",
+        "name": "Holy Mountain",
+        "par": 11.0,
+        "warpid": 1,
+        "id": 4
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-9",
+        "name": "Safety Third",
+        "par": 8.0,
+        "id": 8
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-15",
+        "name": "Cactus Jumper",
+        "par": 10.0,
+        "id": 14
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-2",
+        "name": "One Down",
+        "par": 10.5,
+        "id": 53
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-13",
+        "name": "Ulcer pop",
+        "par": 10.0,
+        "id": 64
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-18",
+        "name": "destructoid",
+        "par": 16.5,
+        "id": 69
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-3",
+        "name": "Push",
+        "par": 14.5,
+        "id": 106
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-6",
+        "name": "The Shaft",
+        "par": 4.5,
+        "id": 109
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-9",
+        "name": "Shotzie!",
+        "par": 12.5,
+        "id": 112
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-11",
+        "name": "Box Tripper",
+        "par": 9.0,
+        "id": 114
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-1x",
+        "name": "oh, hello",
+        "par": 3.0,
+        "id": 20
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-2x",
+        "name": "Onward",
+        "par": 4.5,
+        "id": 21
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-3x",
+        "name": "BZZZZZ",
+        "par": 10.0,
+        "id": 22
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-5x",
+        "name": "Creamsoda",
+        "par": 10.0,
+        "id": 24
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-9x",
+        "name": "So close",
+        "par": 11.0,
+        "id": 28
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-15x",
+        "name": "Kick Machine",
+        "par": 18.0,
+        "id": 34
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-2x",
+        "name": "pinkeye falls",
+        "par": 14.0,
+        "id": 73
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-13x",
+        "name": "Dust Bunnies",
+        "par": 11.0,
+        "id": 84
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-18x",
+        "name": "electrolysis",
+        "par": 17.0,
+        "id": 89
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-3x",
+        "name": "The Red Room",
+        "par": 15.0,
+        "id": 126
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-6x",
+        "name": "Not You Again",
+        "par": 17.0,
+        "id": 129
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-9x",
+        "name": "Goliath",
+        "par": 21.0,
+        "id": 132
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-11x",
+        "name": "The Salt Man",
+        "par": 12.5,
+        "id": 134
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro1intro.am",
+        "id": 1,
+        "char": 2,
+        "name": "(Sky Pup)"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro1-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 40
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro1-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 41
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro1-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 42
+      }
+    ]
+  ],
+  "DrFetus": [
+    [
+      "chapter",
+      {
+        "name": "The End",
+        "music": "ch6.wav",
+        "altmusic": "ch6dark.wav",
+        "warpmusic": "retrohell_music.wav",
+        "menunormalmusic": "ch6normalmenu.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "ch6intro.am",
+        "bossintro": "boss6intro.am",
+        "bossoutro": "boss6out.am",
+        "bossmusic": "boss6.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "6-1",
+        "name": "The Pit",
+        "par": 30.0,
+        "id": 260
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "6-2",
+        "name": "Schism",
+        "par": 44.0,
+        "id": 261
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "6-3",
+        "name": "Echoes",
+        "par": 34,
+        "id": 262
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "6-4",
+        "name": "Gently",
+        "par": 33,
+        "id": 263
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "6-5",
+        "name": "Omega",
+        "par": 44,
+        "id": 264
+      }
+    ],
+    [
+      "bosslevel",
+      {
+        "file": "boss6",
+        "altfile": "boss6x",
+        "name": "Dr. Fetus",
+        "par": 44
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "6-1x",
+        "name": "Detox",
+        "par": 40.0,
+        "id": 265
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "6-2x",
+        "name": "Ghost Tomb",
+        "par": 50,
+        "id": 266
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "6-3x",
+        "name": "From Beyond",
+        "par": 70,
+        "id": 267
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "6-4x",
+        "name": "Maze of Ith",
+        "par": 50,
+        "id": 268
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "6-5x",
+        "name": "No Quarter",
+        "par": 60,
+        "id": 269
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 1,
+        "name": "-6 |> '-' |>"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": -6,
+        "name": "-6 |> '-' |>",
+        "par": 5.0,
+        "id": 595
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 2,
+        "name": "-6 |> '-' |>"
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": -6,
+        "name": "-6 |> '-' |>",
+        "par": 5.0,
+        "id": 595
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 3,
+        "name": "-6 |> '-' |>"
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": -6,
+        "name": "-6 |> '-' |>",
+        "par": 5.0,
+        "id": 595
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 4,
+        "name": "-6 |> '-' |>"
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": -6,
+        "name": "-6 |> '-' |>",
+        "par": 5.0,
+        "id": 595
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 5,
+        "name": "-6 |> '-' |>"
+      }
+    ],
+    [
+      "warp5level",
+      {
+        "file": -6,
+        "name": "-6 |> '-' |>",
+        "par": 5.0,
+        "id": 595
+      }
+    ]
+  ],
+  "Expert_Remix": [
+    [
+      "chapter",
+      {
+        "name": "Expert Remix",
+        "music": "hardhell.wav",
+        "altmusic": "hardhell.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav",
+        "overridechar": 1,
+        "lives": 30,
+        "time": 100.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-1",
+        "name": "Howdy",
+        "par": 7.0,
+        "id": 390
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-2",
+        "name": "Burrito Boy",
+        "par": 20,
+        "id": 391
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-3",
+        "name": "Regerts",
+        "par": 21.0,
+        "id": 392
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-4",
+        "name": "Big Time",
+        "par": 17.0,
+        "id": 393
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-5",
+        "name": "Play Dead",
+        "par": 17.5,
+        "id": 394
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-6",
+        "name": "Gozer",
+        "par": 22.5,
+        "id": 395
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-7",
+        "name": "Doppelganger",
+        "par": 46.0,
+        "id": 396
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-8",
+        "name": "Flex",
+        "par": 19.0,
+        "id": 397
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-9",
+        "name": "Super Shaft!",
+        "par": 9,
+        "id": 398
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-10",
+        "name": "Tea Leaf",
+        "par": 12,
+        "id": 399
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-11",
+        "name": "Kingsley",
+        "par": 41.5,
+        "id": 400
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-12",
+        "name": "Toxie",
+        "par": 12.0,
+        "id": 401
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-13",
+        "name": "Ping",
+        "par": 60.0,
+        "id": 402
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-14",
+        "name": "Peeping Tom",
+        "par": 36,
+        "id": 403
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-15",
+        "name": "Open Sky",
+        "par": 24.5,
+        "id": 404
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-16",
+        "name": "Drop Dead",
+        "par": 15.5,
+        "id": 405
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-17",
+        "name": "Flea",
+        "par": 34,
+        "id": 406
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-18",
+        "name": "Speck",
+        "par": 60.0,
+        "id": 407
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-19",
+        "name": "AAAAAAHHH!",
+        "par": 16.0,
+        "id": 408
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "expert1-20",
+        "name": "Puberty",
+        "par": 50,
+        "id": 409
+      }
+    ]
+  ],
+  "Forest": [
+    [
+      "chapter",
+      {
+        "name": "Forest",
+        "music": "smbforest5.wav",
+        "altmusic": "smbforestalt.wav",
+        "warpmusic": "forestretro3.wav",
+        "menunormalmusic": "forestmenuloop.wav",
+        "menuretromusic": "evilforestmenuloop.wav",
+        "warptrans": "warp.am",
+        "intro": "fintro.am",
+        "bossintro": "bossintro1.am",
+        "bossoutro": "bossoutro.am",
+        "bossmusic": "bawsslewp.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-1",
+        "name": "Hello World",
+        "par": 3.0,
+        "id": 0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-2",
+        "name": "Upward",
+        "par": 5.0,
+        "id": 1
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-3",
+        "name": "The Gap",
+        "par": 9.0,
+        "id": 2
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-4",
+        "name": "Nutshell",
+        "par": 9.0,
+        "id": 3
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-5",
+        "name": "Holy Mountain",
+        "par": 11.0,
+        "warpid": 1,
+        "id": 4
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-6",
+        "name": "Bladecatcher",
+        "par": 7.0,
+        "id": 5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-7",
+        "name": "Diverge",
+        "par": 5,
+        "id": 6
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-8",
+        "name": "The Bit",
+        "par": 4.5,
+        "id": 7
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-9",
+        "name": "Safety Third",
+        "par": 8.0,
+        "id": 8
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-10",
+        "name": "The Levee",
+        "par": 7.5,
+        "id": 9
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-11",
+        "name": "Fired",
+        "par": 8.0,
+        "id": 10
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-12",
+        "name": "Revolve",
+        "par": 7.0,
+        "warpid": 2,
+        "id": 11
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-13",
+        "name": "Tommy's Cabin",
+        "par": 7.0,
+        "id": 12
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-14",
+        "name": "Blood Mountain",
+        "par": 8.0,
+        "id": 13
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-15",
+        "name": "Cactus Jumper",
+        "par": 10.0,
+        "id": 14
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-16",
+        "name": "Sidewinder",
+        "par": 9.0,
+        "id": 15
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-17",
+        "name": "MorningStar",
+        "par": 9.0,
+        "id": 16
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-18",
+        "name": "Altamont",
+        "par": 4.0,
+        "id": 17
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-19",
+        "name": "Intermission",
+        "par": 20.0,
+        "warpid": 3,
+        "id": 18
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-20",
+        "name": "The Test",
+        "par": 22.0,
+        "id": 19
+      }
+    ],
+    [
+      "bosslevel",
+      {
+        "file": "boss1",
+        "name": "Lil Slugger",
+        "par": 40.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-1x",
+        "name": "oh, hello",
+        "par": 3.0,
+        "id": 20
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-2x",
+        "name": "Onward",
+        "par": 4.5,
+        "id": 21
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-3x",
+        "name": "BZZZZZ",
+        "par": 10.0,
+        "id": 22
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-4x",
+        "name": "Plum Rain",
+        "par": 12.0,
+        "id": 23
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-5x",
+        "name": "Creamsoda",
+        "par": 10.0,
+        "id": 24
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-6x",
+        "name": "I am the night",
+        "par": 7.0,
+        "id": 25
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-7x",
+        "name": "Two Roads",
+        "par": 5.0,
+        "id": 26
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-8x",
+        "name": "Big Red",
+        "par": 6.0,
+        "id": 27
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-9x",
+        "name": "So close",
+        "par": 11.0,
+        "id": 28
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-10x",
+        "name": "Walls",
+        "par": 11.0,
+        "id": 29
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-11x",
+        "name": "Doused ",
+        "par": 13.0,
+        "id": 30
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-12x",
+        "name": "Fireal",
+        "par": 12.0,
+        "id": 31
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-13x",
+        "name": "Tommy's Condo",
+        "par": 12.0,
+        "warpid": 4,
+        "id": 32
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-14x",
+        "name": "Mystery Spot",
+        "par": 14.0,
+        "id": 33
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-15x",
+        "name": "Kick Machine",
+        "par": 18.0,
+        "id": 34
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-16x",
+        "name": "Night Game",
+        "par": 17.0,
+        "id": 35
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-17x",
+        "name": "The Clock",
+        "par": 12.0,
+        "id": 36
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-18x",
+        "name": "Whitewash",
+        "par": 5.0,
+        "id": 37
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-19x",
+        "name": "The Queener",
+        "par": 17.0,
+        "id": 38
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "1-20x",
+        "name": "A perfect end",
+        "par": 25.0,
+        "id": 39
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro1intro.am",
+        "id": 1,
+        "char": 2,
+        "name": "(Sky Pup)"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro1-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 40
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro1-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 41
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro1-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 42
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "commander_warp.am",
+        "id": 2,
+        "char": 12,
+        "name": "The Commander!"
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "4bit1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 43
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "4bit2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 44
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "4bit3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 45
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "gbintro.am",
+        "id": 3,
+        "char": 3,
+        "name": "(Hand Held Hack)"
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "gameboy1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 46
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "gameboy2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 47
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "gameboy3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 48
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro2intro.am",
+        "id": 4,
+        "char": 2,
+        "name": "(Space boy)"
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro2-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 49
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro2-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 50
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro2-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 51
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 5,
+        "name": "-1 |> '-' |>"
+      }
+    ],
+    [
+      "warp5level",
+      {
+        "file": -1,
+        "name": "-1 |> '-' |>",
+        "par": 5.0,
+        "id": 590
+      }
+    ]
+  ],
+  "Hell": [
+    [
+      "chapter",
+      {
+        "name": "Hell",
+        "music": "hell.wav",
+        "altmusic": "hardhell.wav",
+        "warpmusic": "retrohell_music.wav",
+        "menunormalmusic": "menunormalhell.wav",
+        "menuretromusic": "menuhardhell.wav",
+        "warptrans": "warp.am",
+        "intro": "ch4intro.am",
+        "bossintro": "boss4intro.am",
+        "bossoutro": "boss4outro.am",
+        "bossmusic": "boss4.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-1",
+        "name": "Boilermaker",
+        "par": 11.0,
+        "id": 156
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-2",
+        "name": "Brindle",
+        "par": 23.0,
+        "id": 157
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-3",
+        "name": "Heck Hole",
+        "par": 11.5,
+        "id": 158
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-4",
+        "name": "Hex",
+        "par": 11.5,
+        "id": 159
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-5",
+        "name": "Pyro",
+        "par": 12.0,
+        "id": 160
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-6",
+        "name": "Leviathan",
+        "par": 8.0,
+        "id": 161
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-7",
+        "name": "Rickets",
+        "par": 17,
+        "id": 162
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-8",
+        "name": "Weibe",
+        "par": 16.0,
+        "warpid": 3,
+        "id": 163
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-9",
+        "name": "Deceiver",
+        "par": 6.0,
+        "id": 164
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-10",
+        "name": "Ball n Chain",
+        "par": 15,
+        "id": 165
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-11",
+        "name": "Oracle",
+        "par": 12.5,
+        "id": 166
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-12",
+        "name": "Big Brother",
+        "par": 10.8,
+        "id": 167
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-13",
+        "name": "Lazy",
+        "par": 11.5,
+        "id": 168
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-14",
+        "name": "Adversary",
+        "par": 17.5,
+        "warpid": 1,
+        "id": 169
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-15",
+        "name": "Abaddon",
+        "par": 9.0,
+        "id": 170
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-16",
+        "name": "Bow",
+        "par": 12.0,
+        "id": 171
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-17",
+        "name": "Lost Highway",
+        "par": 12.0,
+        "id": 172
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-18",
+        "name": "Boris",
+        "par": 24.5,
+        "warpid": 2,
+        "id": 173
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-19",
+        "name": "The Hive",
+        "par": 14.0,
+        "id": 174
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "4-20",
+        "name": "Babylon",
+        "par": 22.0,
+        "id": 175
+      }
+    ],
+    [
+      "bosslevel",
+      {
+        "file": "boss4",
+        "name": "Little Horn",
+        "par": 40.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-1x",
+        "name": "Gretel",
+        "par": 19.0,
+        "id": 176
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-2x",
+        "name": "Golgotha",
+        "par": 16.5,
+        "id": 177
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-3x",
+        "name": "Char",
+        "par": 12,
+        "id": 178
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-4x",
+        "name": "Altered",
+        "par": 17.5,
+        "id": 179
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-5x",
+        "name": "Wicked One",
+        "par": 14.0,
+        "id": 180
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-6x",
+        "name": "The Gnashing",
+        "par": 19.0,
+        "id": 181
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-7x",
+        "name": "Thistle",
+        "par": 18.0,
+        "warpid": 4,
+        "id": 182
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-8x",
+        "name": "Billy Boy",
+        "par": 19.0,
+        "id": 183
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-9x",
+        "name": "Glut",
+        "par": 10.5,
+        "id": 184
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-10x",
+        "name": "Gallow",
+        "par": 17.0,
+        "id": 185
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-11x",
+        "name": "Surrender",
+        "par": 16.5,
+        "id": 186
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-12x",
+        "name": "Beholder",
+        "par": 18.5,
+        "id": 187
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-13x",
+        "name": "Oblivion",
+        "par": 23.0,
+        "id": 188
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-14x",
+        "name": "Old Scratch",
+        "par": 20.0,
+        "id": 189
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-15x",
+        "name": "Bone Yard",
+        "par": 11.0,
+        "id": 190
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-16x",
+        "name": "Starless",
+        "par": 11.5,
+        "id": 191
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-17x",
+        "name": "Invocation",
+        "par": 18.0,
+        "id": 192
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-18x",
+        "name": "Sag Chamber",
+        "par": 29.0,
+        "id": 193
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-19x",
+        "name": "Long Goodbye",
+        "par": 14.0,
+        "id": 194
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "4-20x",
+        "name": "Imperial",
+        "par": 31.0,
+        "id": 195
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "gbheintro.am",
+        "id": 1,
+        "char": 3,
+        "name": "(The Key Master)"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "gameboy4-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 196
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "gameboy4-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 197
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "gameboy4-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 198
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "flywrench.am",
+        "id": 2,
+        "char": 17,
+        "name": "The Fly Guy!"
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "fly1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 199
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "fly2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 200
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "fly3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 201
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro4intro.am",
+        "id": 3,
+        "char": 2,
+        "name": "(Brimstone)"
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "retro4-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 202
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "retro4-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 203
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "retro4-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 204
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "4bit4intro.am",
+        "id": 4,
+        "char": 4,
+        "name": "(mmmmmm)"
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "4bit4-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 205
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "4bit4-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 206
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "4bit4-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 207
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 5,
+        "name": "-4 |> '-' |>"
+      }
+    ],
+    [
+      "warp5level",
+      {
+        "file": -4,
+        "name": "-4 |> '-' |>",
+        "par": 5.0,
+        "id": 593
+      }
+    ]
+  ],
+  "Hospital": [
+    [
+      "chapter",
+      {
+        "name": "Hospital",
+        "music": "ch2track.wav",
+        "altmusic": "ch2trackalt.wav",
+        "warpmusic": "ch2retro.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "hevilmenuloop.wav",
+        "warptrans": "warp.am",
+        "intro": "ch2intro.am",
+        "bossintro": "boss2intro.am",
+        "bossoutro": "boss2outro.am",
+        "bossmusic": "boss2.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-1",
+        "name": "Biohazard",
+        "par": 11.0,
+        "id": 52
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-2",
+        "name": "One Down",
+        "par": 10.5,
+        "id": 53
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-3",
+        "name": "Memories",
+        "par": 14.0,
+        "id": 54
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-4",
+        "name": "Blew",
+        "par": 9.5,
+        "id": 55
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-5",
+        "name": "Big Empty",
+        "par": 16.0,
+        "id": 56
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-6",
+        "name": "The Grain",
+        "par": 15.0,
+        "id": 57
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-7",
+        "name": "Hush",
+        "par": 19.0,
+        "id": 58
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-8",
+        "name": "The Sabbath",
+        "par": 25.0,
+        "warpid": 2,
+        "id": 59
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-9",
+        "name": "Blood Swamp",
+        "par": 11.0,
+        "id": 60
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-10",
+        "name": "johnny's cage",
+        "par": 12.0,
+        "id": 61
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-11",
+        "name": "Ghost Key",
+        "par": 9.0,
+        "id": 62
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-12",
+        "name": "Above",
+        "par": 11.0,
+        "warpid": 3,
+        "id": 63
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-13",
+        "name": "Ulcer pop",
+        "par": 10.0,
+        "id": 64
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-14",
+        "name": "Aunt Flo",
+        "par": 16.0,
+        "id": 65
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-15",
+        "name": "Gallbladder",
+        "par": 19.0,
+        "warpid": 1,
+        "id": 66
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-16",
+        "name": "Synj",
+        "par": 15.0,
+        "id": 67
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-17",
+        "name": "Worm food",
+        "par": 14.0,
+        "id": 68
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-18",
+        "name": "destructoid",
+        "par": 16.5,
+        "id": 69
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-19",
+        "name": "six feet",
+        "par": 14.0,
+        "id": 70
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "2-20",
+        "name": "Day Breaker",
+        "par": 24.0,
+        "id": 71
+      }
+    ],
+    [
+      "bosslevel",
+      {
+        "file": "boss2",
+        "name": "C.H.A.D.",
+        "par": 40.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-1x",
+        "name": "back track",
+        "par": 17.0,
+        "id": 72
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-2x",
+        "name": "pinkeye falls",
+        "par": 14.0,
+        "id": 73
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-3x",
+        "name": "Buzzzzcut",
+        "par": 13.0,
+        "id": 74
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-4x",
+        "name": "Blown",
+        "par": 14.0,
+        "id": 75
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-5x",
+        "name": "Agent Orange",
+        "par": 20.0,
+        "warpid": 4,
+        "id": 76
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-6x",
+        "name": "Cher noble",
+        "par": 19.0,
+        "id": 77
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-7x",
+        "name": "The Moon",
+        "par": 30.0,
+        "id": 78
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-8x",
+        "name": "Grape Soda",
+        "par": 33.0,
+        "id": 79
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-9x",
+        "name": "Centipede",
+        "par": 14.0,
+        "id": 80
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-10x",
+        "name": "The Kracken",
+        "par": 13.0,
+        "id": 81
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-11x",
+        "name": "Spineless",
+        "par": 12.5,
+        "id": 82
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-12x",
+        "name": "Grey Matter",
+        "par": 22.5,
+        "id": 83
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-13x",
+        "name": "Dust Bunnies",
+        "par": 11.0,
+        "id": 84
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-14x",
+        "name": "Crawl Space",
+        "par": 31.0,
+        "id": 85
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-15x",
+        "name": "Insurance?",
+        "par": 32.0,
+        "id": 86
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-16x",
+        "name": "P.S.Y.",
+        "par": 16.0,
+        "id": 87
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-17x",
+        "name": "Nels Box",
+        "par": 12.0,
+        "id": 88
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-18x",
+        "name": "electrolysis",
+        "par": 17.0,
+        "id": 89
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-19x",
+        "name": "Tenebrae",
+        "par": 26.0,
+        "id": 90
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "2-20x",
+        "name": "Solemnity",
+        "par": 36.0,
+        "id": 91
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retroh1intro.am",
+        "id": 1,
+        "char": 2,
+        "name": "(The Blood Shed)"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "hretro1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 92
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "hretro2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 93
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "hretro3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 94
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "jill.am",
+        "id": 2,
+        "char": 19,
+        "name": "The Bootlicker!"
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "jill1-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 95
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "jill1-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 96
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "jill1-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 97
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "gbhintro.am",
+        "id": 3,
+        "char": 3,
+        "name": "(Castle Crushers)"
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "gameboy2-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 98
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "gameboy2-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 99
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "gameboy2-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 100
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "4bit1intro.am",
+        "id": 4,
+        "char": 4,
+        "name": "(1977)"
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "4bit2-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 101
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "4bit2-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 102
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "4bit2-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 103
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 5,
+        "name": "-2 |> '-' |>"
+      }
+    ],
+    [
+      "warp5level",
+      {
+        "file": -2,
+        "name": "-2 |> '-' |>",
+        "par": 5.0,
+        "id": 591
+      }
+    ]
+  ],
+  "Internets": [
+    [
+      "chapter",
+      {
+        "name": "Super Meat World",
+        "music": "internets.wav",
+        "altmusic": "smbforestalt.wav",
+        "warpmusic": "forestretro3.wav",
+        "menunormalmusic": "internetsmenu.wav",
+        "menuretromusic": "internetsmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "meatworld.am",
+        "bossintro": "bossintro1.am",
+        "bossoutro": "bossoutro.am",
+        "bossmusic": "bawsslewp.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-1",
+        "name": "Hello World",
+        "par": 3.0,
+        "id": 0
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-2",
+        "name": "Upward",
+        "par": 5.0,
+        "id": 1
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-3",
+        "name": "The Climb",
+        "par": 9.0,
+        "id": 2
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-4",
+        "name": "Nutshell",
+        "par": 9.0,
+        "id": 3
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-5",
+        "name": "Holy Mountain",
+        "par": 11.0,
+        "id": 4
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-6",
+        "name": "Bladecatcher",
+        "par": 7.0,
+        "id": 5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-7",
+        "name": "Diverge",
+        "par": 5,
+        "id": 6
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-8",
+        "name": "The Bit",
+        "par": 4.5,
+        "id": 7
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-9",
+        "name": "Safety Third",
+        "par": 8.0,
+        "id": 8
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-10",
+        "name": "The Levee",
+        "par": 7.5,
+        "id": 9
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-11",
+        "name": "Fired",
+        "par": 8.0,
+        "id": 10
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-12",
+        "name": "Revolve",
+        "par": 7.0,
+        "id": 11
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-13",
+        "name": "Toms Cabin",
+        "par": 7.0,
+        "id": 12
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-14",
+        "name": "Blood Mountain",
+        "par": 8.0,
+        "id": 13
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-15",
+        "name": "Cactus Jumper",
+        "par": 10.0,
+        "id": 14
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-16",
+        "name": "Sidewinder",
+        "par": 9.0,
+        "id": 15
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-17",
+        "name": "MorningStar",
+        "par": 9.0,
+        "id": 16
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-18",
+        "name": "Altamont",
+        "par": 4.0,
+        "id": 17
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-19",
+        "name": "Intermission",
+        "par": 20.0,
+        "id": 18
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "1-20",
+        "name": "The Test",
+        "par": 22.0,
+        "id": 19
+      }
+    ]
+  ],
+  "Jumper Returns_(TK)": [
+    [
+      "chapter",
+      {
+        "name": "Jumper Returns",
+        "music": "retrohell_music.wav",
+        "altmusic": "retrohell_music.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav",
+        "overridechar": 25,
+        "lives": 30,
+        "time": 100.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-1",
+        "name": "The Way It Is",
+        "par": 5.5,
+        "id": 450
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-2",
+        "name": "Reflexive",
+        "par": 7.5,
+        "id": 451
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-3",
+        "name": "Sling & Arrow",
+        "par": 9.0,
+        "id": 452
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-4",
+        "name": "Duality",
+        "par": 21.0,
+        "id": 453
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-5",
+        "name": "slow ride",
+        "par": 10.0,
+        "id": 454
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-6",
+        "name": "caged beast",
+        "par": 12.5,
+        "id": 455
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-7",
+        "name": "like a record",
+        "par": 16.0,
+        "id": 456
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-8",
+        "name": "Sofia Garden",
+        "par": 8.0,
+        "id": 457
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-9",
+        "name": "Gators of NY",
+        "par": 10.5,
+        "id": 458
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-10",
+        "name": "broken home",
+        "par": 9,
+        "id": 459
+      }
+    ],
+    [
+      "11",
+      {
+        "file": "ogmo1-11",
+        "name": "Poor Yorick",
+        "par": 12.0,
+        "id": 460
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-12",
+        "name": "Tollway",
+        "par": 12.0,
+        "id": 461
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-13",
+        "name": "Street Sweeper",
+        "par": 6.5,
+        "id": 462
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-14",
+        "name": "the drain",
+        "par": 13,
+        "id": 463
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-15",
+        "name": "pocket rocket",
+        "par": 14.0,
+        "id": 464
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-16",
+        "name": "sawbucks",
+        "par": 16.5,
+        "id": 465
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-17",
+        "name": "fanavalt",
+        "par": 11.0,
+        "id": 466
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-18",
+        "name": "Kill your TV",
+        "par": 13.0,
+        "id": 467
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-19",
+        "name": "Juke Box",
+        "par": 20.0,
+        "id": 468
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "ogmo1-20",
+        "name": "Teeth",
+        "par": 6.5,
+        "id": 469
+      }
+    ]
+  ],
+  "Paradise lost_(nova)": [
+    [
+      "chapter",
+      {
+        "name": "Paradise Lost (Nova)",
+        "music": "hardhell.wav",
+        "altmusic": "hardhell.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav",
+        "overridechar": 6,
+        "lives": 30,
+        "time": 100.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise1",
+        "name": "Chili",
+        "par": 7.0,
+        "id": 470
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise2",
+        "name": "Rig",
+        "par": 13.5,
+        "id": 471
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise3",
+        "name": "S.H.A.F.T.",
+        "par": 15.0,
+        "id": 472
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise4",
+        "name": "Blues",
+        "par": 13.0,
+        "id": 473
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise5",
+        "name": "Clockwork",
+        "par": 5.0,
+        "id": 474
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise6",
+        "name": "Acid Rain",
+        "par": 5.0,
+        "id": 475
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise7",
+        "name": "The Mist",
+        "par": 7.0,
+        "id": 476
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise8",
+        "name": "Paradigm",
+        "par": 15.0,
+        "id": 477
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise9",
+        "name": "condom joke",
+        "par": 8,
+        "id": 478
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise10",
+        "name": "H.A.L.L.",
+        "par": 12,
+        "id": 479
+      }
+    ],
+    [
+      "11",
+      {
+        "file": "paradise11",
+        "name": "The Plant",
+        "par": 11.0,
+        "id": 480
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise12",
+        "name": "Midnight",
+        "par": 12.0,
+        "id": 481
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise13",
+        "name": "and down",
+        "par": 8.5,
+        "id": 482
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise14",
+        "name": "Grand Prix",
+        "par": 13,
+        "id": 483
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise15",
+        "name": "Salt Joke",
+        "par": 10.5,
+        "id": 484
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise16",
+        "name": "Going Green",
+        "par": 17.0,
+        "id": 485
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise17",
+        "name": "Deception",
+        "par": 10.0,
+        "id": 486
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise18",
+        "name": "Stardust",
+        "par": 9.0,
+        "id": 487
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise19",
+        "name": "Milk",
+        "par": 33.0,
+        "id": 488
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "paradise20",
+        "name": "Behemoth",
+        "par": 37.0,
+        "id": 489
+      }
+    ]
+  ],
+  "Rapture": [
+    [
+      "chapter",
+      {
+        "name": "The Rapture",
+        "music": "ch5.wav",
+        "altmusic": "ch5hard.wav",
+        "warpmusic": "ch5retro_music.wav",
+        "menunormalmusic": "ch5menu.wav",
+        "menuretromusic": "ch5menuhard.wav",
+        "warptrans": "warp.am",
+        "intro": "ch5intro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "boss5outro.am",
+        "bossmusic": "boss5.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-1",
+        "name": "the witness",
+        "par": 22,
+        "warpid": 1,
+        "id": 208
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-2",
+        "name": "evangel",
+        "par": 13,
+        "id": 209
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-3",
+        "name": "Ripe Decay",
+        "par": 18,
+        "id": 210
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-4",
+        "name": "Rise",
+        "par": 13.5,
+        "id": 211
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-5",
+        "name": "Panic Switch",
+        "par": 12.5,
+        "id": 212
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-6",
+        "name": "Left Behind",
+        "par": 11,
+        "id": 213
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-7",
+        "name": "The Fallen",
+        "par": 23,
+        "warpid": 2,
+        "id": 214
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-8",
+        "name": "Descent",
+        "par": 20,
+        "id": 215
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-9",
+        "name": "Abomination",
+        "par": 19.5,
+        "id": 216
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-10",
+        "name": "Grinding Mill",
+        "par": 15.5,
+        "id": 217
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-11",
+        "name": "Heretic",
+        "par": 18.5,
+        "id": 218
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-12",
+        "name": "10 Horns",
+        "par": 16,
+        "warpid": 3,
+        "id": 219
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-13",
+        "name": "The Lamb",
+        "par": 20,
+        "id": 220
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-14",
+        "name": "King Carrion",
+        "par": 30.5,
+        "id": 221
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-15",
+        "name": "The Flood",
+        "par": 13.5,
+        "id": 222
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-16",
+        "name": "Rotgut",
+        "par": 30,
+        "id": 223
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-17",
+        "name": "The Kingdom",
+        "par": 23,
+        "id": 224
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-18",
+        "name": "Gate of Ludd",
+        "par": 17,
+        "id": 225
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-19",
+        "name": "Wrath",
+        "par": 29,
+        "id": 226
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "5-20",
+        "name": "Judgment",
+        "par": 32,
+        "id": 227
+      }
+    ],
+    [
+      "bosslevel",
+      {
+        "file": "boss5",
+        "name": "Larries Lament",
+        "par": 40.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-1x",
+        "name": "The Clot",
+        "par": 30.0,
+        "id": 228
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-2x",
+        "name": "Loomer",
+        "par": 17.0,
+        "id": 229
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-3x",
+        "name": "Spank",
+        "par": 35.0,
+        "id": 230
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-4x",
+        "name": "Alabaster",
+        "par": 27.0,
+        "id": 231
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-5x",
+        "name": "Nix",
+        "par": 18.0,
+        "id": 232
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-6x",
+        "name": "Ripcord",
+        "par": 12.0,
+        "id": 233
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-7x",
+        "name": "Downpour",
+        "par": 15.0,
+        "id": 234
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-8x",
+        "name": "Downer",
+        "par": 26,
+        "id": 235
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-9x",
+        "name": "Swine",
+        "par": 40,
+        "id": 236
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-10x",
+        "name": "Pulp Factory",
+        "par": 15.0,
+        "id": 237
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-11x",
+        "name": "Blight",
+        "par": 25,
+        "id": 238
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-12x",
+        "name": "Canker",
+        "par": 26,
+        "id": 239
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-13x",
+        "name": "Halo of Flies",
+        "par": 25,
+        "id": 240
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-14x",
+        "name": "Necrosis",
+        "par": 60,
+        "id": 241
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-15x",
+        "name": "Choke",
+        "par": 15,
+        "id": 242
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-16x",
+        "name": "Coil",
+        "par": 32,
+        "id": 243
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-17x",
+        "name": "Millenium",
+        "par": 27,
+        "id": 244
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-18x",
+        "name": "Stain",
+        "par": 19,
+        "id": 245
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-19x",
+        "name": "Magog",
+        "par": 41,
+        "id": 246
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "5-20x",
+        "name": "Quietus",
+        "par": 48,
+        "warpid": 4,
+        "id": 247
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro5intro.am",
+        "id": 1,
+        "char": 2,
+        "name": "(Skyscraper)"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro5-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 248
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro5-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 249
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "retro5-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 250
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "kidintro.am",
+        "id": 2,
+        "char": 23,
+        "name": "The Guy!"
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "kid1-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 310
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "kid1-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 311
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "kid1-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 312
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro6intro.am",
+        "id": 3,
+        "char": 2,
+        "name": "(Sunshine Island)"
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "retro6-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 254
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "retro6-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 255
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "retro6-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 256
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro7intro.am",
+        "id": 4,
+        "char": 2,
+        "name": "(Meat is Death)"
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro7-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 257
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro7-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 258
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro7-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 259
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 5,
+        "name": "-5 |> '-' |>"
+      }
+    ],
+    [
+      "warp5level",
+      {
+        "file": -5,
+        "name": "-5 |> '-' |>",
+        "par": 5.0,
+        "id": 594
+      }
+    ]
+  ],
+  "Remnants_(Nacef)": [
+    [
+      "chapter",
+      {
+        "name": "Remnants",
+        "music": "ch6.wav",
+        "altmusic": "ch6.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "ch6normalmenu.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem1",
+        "name": "Route 1",
+        "par": 9,
+        "id": 430
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem2",
+        "name": "Ground switch",
+        "par": 12,
+        "id": 431
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem3",
+        "name": "Clockwork",
+        "par": 11.0,
+        "id": 432
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem4",
+        "name": "Fortress",
+        "par": 14.0,
+        "id": 433
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem5",
+        "name": "Dime a dozen",
+        "par": 25.0,
+        "id": 434
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem6",
+        "name": "Anemoi",
+        "par": 27.0,
+        "id": 435
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem7",
+        "name": "Swap",
+        "par": 17.0,
+        "id": 436
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem8",
+        "name": "Gyration",
+        "par": 12.0,
+        "id": 437
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem9",
+        "name": "Stress",
+        "par": 22.0,
+        "id": 438
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem10",
+        "name": "Hemoglobin",
+        "par": 21,
+        "id": 439
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem11",
+        "name": "Links",
+        "par": 13.0,
+        "id": 440
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem12",
+        "name": "Get Down",
+        "par": 24.0,
+        "id": 441
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem13",
+        "name": "Transition",
+        "par": 41.0,
+        "id": 442
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem14",
+        "name": "Unidirectional",
+        "par": 20,
+        "id": 443
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem15",
+        "name": "Bits to share",
+        "par": 13.0,
+        "id": 444
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem16",
+        "name": "Mechanized",
+        "par": 30.0,
+        "id": 445
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem17",
+        "name": "Compulsion",
+        "par": 40.0,
+        "id": 446
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem18",
+        "name": "Suspended",
+        "par": 25.0,
+        "id": 447
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem19",
+        "name": "Empyrean",
+        "par": 22.0,
+        "id": 448
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "rem20",
+        "name": "Eerie",
+        "par": 45.0,
+        "id": 449
+      }
+    ]
+  ],
+  "SaltFactory": [
+    [
+      "chapter",
+      {
+        "name": "Factory",
+        "music": "factory.wav",
+        "altmusic": "altfactory.wav",
+        "warpmusic": "retrofactory32khz_music.wav",
+        "menunormalmusic": "factorymenu.wav",
+        "menuretromusic": "evilfactorymenu.wav",
+        "warptrans": "warp.am",
+        "intro": "ch3intro.am",
+        "bossintro": "boss3intro.am",
+        "bossoutro": "boss3outro.am",
+        "bossmusic": "boss3.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-1",
+        "name": "Pit Stop",
+        "par": 9.5,
+        "id": 104
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-2",
+        "name": "The Salt Lick",
+        "par": 8.3,
+        "id": 105
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-3",
+        "name": "Push",
+        "par": 16,
+        "id": 106
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-4",
+        "name": "Transmissions",
+        "par": 12,
+        "id": 107
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-5",
+        "name": "Uptown",
+        "par": 12.2,
+        "warpid": 3,
+        "id": 108
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-6",
+        "name": "The Shaft",
+        "par": 4.5,
+        "id": 109
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-7",
+        "name": "Mind the Gap",
+        "par": 12.4,
+        "warpid": 1,
+        "id": 110
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-8",
+        "name": "Boomtown",
+        "par": 8.3,
+        "id": 111
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-9",
+        "name": "Shotzie!",
+        "par": 12.5,
+        "id": 112
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-10",
+        "name": "Breakdown",
+        "par": 10.5,
+        "id": 113
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-11",
+        "name": "Box Tripper",
+        "par": 9.0,
+        "id": 114
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-12",
+        "name": "The Dumper",
+        "par": 11.6,
+        "id": 115
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-13",
+        "name": "The Bend",
+        "par": 15.8,
+        "id": 116
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-14",
+        "name": "Gurdy",
+        "par": 14.8,
+        "id": 117
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-15",
+        "name": "Vertigo",
+        "par": 14.8,
+        "id": 118
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-16",
+        "name": "Mono",
+        "par": 14.8,
+        "warpid": 2,
+        "id": 119
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-17",
+        "name": "Rustic",
+        "par": 10.5,
+        "id": 120
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-18",
+        "name": "The Grundle",
+        "par": 17.0,
+        "id": 121
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-19",
+        "name": "Dig",
+        "par": 17.0,
+        "id": 122
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "3-20",
+        "name": "White Noise",
+        "par": 20,
+        "id": 123
+      }
+    ],
+    [
+      "bosslevel",
+      {
+        "file": "boss3",
+        "name": "Brownie",
+        "par": 40.0
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-1x",
+        "name": "Step one",
+        "par": 23.0,
+        "id": 124
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-2x",
+        "name": "Salt + Wound",
+        "par": 16.0,
+        "id": 125
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-3x",
+        "name": "The Red Room",
+        "par": 16.5,
+        "id": 126
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-4x",
+        "name": "Assemble",
+        "par": 20.0,
+        "id": 127
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-5x",
+        "name": "Wasp",
+        "par": 28.0,
+        "id": 128
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-6x",
+        "name": "Not You Again",
+        "par": 20.0,
+        "id": 129
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-7x",
+        "name": "Pluck",
+        "par": 15.5,
+        "id": 130
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-8x",
+        "name": "Salt Crown",
+        "par": 17.5,
+        "warpid": 4,
+        "id": 131
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-9x",
+        "name": "Goliath",
+        "par": 21.0,
+        "id": 132
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-10x",
+        "name": "Exploder",
+        "par": 18.0,
+        "id": 133
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-11x",
+        "name": "The Salt Man",
+        "par": 24,
+        "id": 134
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-12x",
+        "name": "Hellevator",
+        "par": 11.6,
+        "id": 135
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-13x",
+        "name": "Black Circle",
+        "par": 40.0,
+        "id": 136
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-14x",
+        "name": "Salmon",
+        "par": 18,
+        "id": 137
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-15x",
+        "name": "Vertebreaker",
+        "par": 27,
+        "id": 138
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-16x",
+        "name": "The Chaser",
+        "par": 24,
+        "id": 139
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-17x",
+        "name": "Ashes",
+        "par": 11.5,
+        "id": 140
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-18x",
+        "name": "Bile Duct",
+        "par": 17.0,
+        "id": 141
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-19x",
+        "name": "El Topo",
+        "par": 17.0,
+        "id": 142
+      }
+    ],
+    [
+      "altlevel",
+      {
+        "file": "3-20x",
+        "name": "Sweet Pea",
+        "par": 25.5,
+        "id": 143
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "gbsintro.am",
+        "id": 1,
+        "char": 3,
+        "name": "(Tunnel Vision)"
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "gameboy3-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 144
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "gameboy3-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 145
+      }
+    ],
+    [
+      "warp1level",
+      {
+        "file": "gameboy3-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 146
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "ogmo.am",
+        "id": 2,
+        "char": 25,
+        "name": "The Jump Man!"
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "ogmo1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 147
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "ogmo2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 148
+      }
+    ],
+    [
+      "warp2level",
+      {
+        "file": "ogmo3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 149
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "4bit2intro.am",
+        "id": 3,
+        "char": 4,
+        "name": "(Cartridge Dump)"
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "4bit3-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 150
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "4bit3-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 151
+      }
+    ],
+    [
+      "warp3level",
+      {
+        "file": "4bit3-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 152
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "retro3intro.am",
+        "id": 4,
+        "char": 2,
+        "name": "(Kontra)"
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro3-1",
+        "name": "some name",
+        "par": 5.0,
+        "id": 153
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro3-2",
+        "name": "some name",
+        "par": 5.0,
+        "id": 154
+      }
+    ],
+    [
+      "warp4level",
+      {
+        "file": "retro3-3",
+        "name": "some name",
+        "par": 5.0,
+        "id": 155
+      }
+    ],
+    [
+      "warp",
+      {
+        "intro": "glitchintro.am",
+        "char": 2,
+        "id": 5,
+        "name": "-3 |> '-' |>"
+      }
+    ],
+    [
+      "warp5level",
+      {
+        "file": -3,
+        "name": "-3 |> '-' |>",
+        "par": 5.0,
+        "id": 592
+      }
+    ]
+  ],
+  "Sewers_of_Dross": [
+    [
+      "chapter",
+      {
+        "name": "Sewers of Dross",
+        "music": "ch2trackalt.wav",
+        "altmusic": "ch2trackalt.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav",
+        "overridechar": 24,
+        "lives": 30,
+        "time": 100.5
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-1",
+        "name": "Blood Drain",
+        "par": 7.5,
+        "id": 370
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-2",
+        "name": "Stick n Move",
+        "par": 18,
+        "id": 371
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-3",
+        "name": "Stalactite",
+        "par": 15.5,
+        "id": 372
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-4",
+        "name": "Brittle",
+        "par": 26,
+        "id": 373
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-5",
+        "name": "Cog",
+        "par": 17.5,
+        "id": 374
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-6",
+        "name": "Paper Cuts",
+        "par": 13.5,
+        "id": 375
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-7",
+        "name": "Metal Waves",
+        "par": 19,
+        "id": 376
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-8",
+        "name": "Tree of Woe",
+        "par": 38,
+        "id": 377
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-9",
+        "name": "Backtraced!",
+        "par": 19,
+        "id": 378
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-10",
+        "name": "The Pants",
+        "par": 9,
+        "id": 379
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-11",
+        "name": "The Gallows",
+        "par": 9.5,
+        "id": 380
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-12",
+        "name": "Private Hell",
+        "par": 8.5,
+        "id": 381
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-13",
+        "name": "The Drift",
+        "par": 18.5,
+        "id": 382
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-14",
+        "name": "Mr. ID",
+        "par": 16,
+        "id": 383
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-15",
+        "name": "Divide",
+        "par": 38,
+        "id": 384
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-16",
+        "name": "Crack the Sky",
+        "par": 10,
+        "id": 385
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-17",
+        "name": "Easy Target",
+        "par": 29,
+        "id": 386
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-18",
+        "name": "Half Light",
+        "par": 38,
+        "id": 387
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-19",
+        "name": "The Glow",
+        "par": 13,
+        "id": 388
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "g1-20",
+        "name": "Hyperpower!",
+        "par": 50,
+        "id": 389
+      }
+    ]
+  ],
+  "Starlight_(TK)": [
+    [
+      "chapter",
+      {
+        "name": "Starlight",
+        "music": "ch2track.wav",
+        "altmusic": "ch2track.wav",
+        "warpmusic": "internets.wav",
+        "menunormalmusic": "hmenuloop.wav",
+        "menuretromusic": "ch6hardmenu.wav",
+        "warptrans": "warp.am",
+        "intro": "internetsintro.am",
+        "bossintro": "boss5intro.am",
+        "bossoutro": "bossintro1.am",
+        "bossmusic": "bawsslewp.wav"
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star01",
+        "name": "Rubicon",
+        "par": 20.0,
+        "id": 490
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star02",
+        "name": "Pillbox",
+        "par": 12.5,
+        "id": 491
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star03",
+        "name": "Pale Moon",
+        "par": 13.0,
+        "id": 492
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star04",
+        "name": "Phobos",
+        "par": 13.25,
+        "id": 493
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star05",
+        "name": "Long Eyeland",
+        "par": 11.25,
+        "id": 494
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star06",
+        "name": "Big Babel",
+        "par": 13.0,
+        "id": 495
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star07",
+        "name": "Domino",
+        "par": 11.5,
+        "id": 496
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star08",
+        "name": "Pink Death",
+        "par": 9.5,
+        "id": 497
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star09",
+        "name": "16th Parallel",
+        "par": 15,
+        "id": 498
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star10",
+        "name": "Red Planet",
+        "par": 7.5,
+        "id": 499
+      }
+    ],
+    [
+      "11",
+      {
+        "file": "star11",
+        "name": "Milky Way",
+        "par": 13.0,
+        "id": 500
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star12",
+        "name": "Wrath of God",
+        "par": 15.0,
+        "id": 501
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star13",
+        "name": "Limoncello",
+        "par": 14.5,
+        "id": 502
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star14",
+        "name": "Wimpy",
+        "par": 17.25,
+        "id": 503
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star15",
+        "name": "Narrows",
+        "par": 13.0,
+        "id": 504
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star16",
+        "name": "Grimace",
+        "par": 13.5,
+        "id": 505
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star17",
+        "name": "Atlantis",
+        "par": 11.0,
+        "id": 506
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star18",
+        "name": "200 Degreest",
+        "par": 9.0,
+        "id": 507
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star19",
+        "name": "Shaftstop",
+        "par": 14.0,
+        "id": 508
+      }
+    ],
+    [
+      "normlevel",
+      {
+        "file": "star20",
+        "name": "Durandal",
+        "par": 24.0,
+        "id": 509
+      }
+    ]
+  ]
+}
