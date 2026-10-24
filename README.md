@@ -1,10 +1,10 @@
-# Super Meat Boy Web Rewrite 🥩
+# Super Meat Boy Web Rewrite 
 
 A high-fidelity, web-native rewrite and recreation of Team Meat's iconic precision platformer **Super Meat Boy**, built using modern web technologies: React 18, TypeScript, Vite, HTML5 Canvas, Web Audio API, and Tailwind CSS.
 
 ---
 
-## 🌟 Key Highlights
+##  Key Highlights
 
 - **Precise 60Hz Physics**: Exact jump curves, variable jump height, coyote time, jump input buffering, skidding friction, wall sliding, and wall-kick steering lockouts.
 - **Binary Level Engine (`.smbl`)**: Fully reverse-engineered native level parser decoding both `TL01` and `TL02` container formats with bit-packed RLE tile layers, dynamic autotiling, and hazard placement. Includes 590+ official binary levels.
@@ -17,7 +17,7 @@ A high-fidelity, web-native rewrite and recreation of Team Meat's iconic precisi
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Title Menu & Chapter Select | Level Grid & Progression |
 |:---:|:---:|
@@ -26,7 +26,7 @@ A high-fidelity, web-native rewrite and recreation of Team Meat's iconic precisi
 
 ---
 
-## 🏗️ Architecture & Subsystems
+##  Architecture & Subsystems
 
 ```mermaid
 graph TD
@@ -66,7 +66,7 @@ graph TD
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18.0.0 or higher recommended)
@@ -96,7 +96,7 @@ npm run preview
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The engine includes rigorous unit and parity test suites verifying physics constants, binary parsing, and blood stamp fidelity:
 
@@ -113,7 +113,7 @@ npx tsx src/engine/bloodDecals.test.ts
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Action | Primary (Keyboard) | Secondary | Gamepad |
 |---|---|---|---|
@@ -125,7 +125,7 @@ npx tsx src/engine/bloodDecals.test.ts
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SuperMeatboyRewrite/
@@ -160,6 +160,6 @@ SuperMeatboyRewrite/
 
 ---
 
-## ⚖️ Legal & Disclaimer
+##  Legal & Disclaimer
 
 This project is an educational, non-commercial rewrite and reverse-engineering preservation project. **Super Meat Boy** is a registered trademark of Team Meat. All original game assets, art, sounds, and level designs remain the intellectual property of Team Meat.
